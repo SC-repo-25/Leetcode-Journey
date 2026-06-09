@@ -35,7 +35,7 @@ leetcode-journey/
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/sneha-chauhan-9293ba415
-* GitHub: Your GitHub Profile Link
+* GitHub: https://github.com/SC-repo-25
 
 ---
 
