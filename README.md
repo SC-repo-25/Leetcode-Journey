@@ -20,7 +20,9 @@ leetcode-journey/
 │   └── MaximumSubarray.java
 │
 ├── Hashing/
-│   └── ContainsDuplicate.java
+│   ├── ContainsDuplicate.java
+│   ├── ValidAnagram.java
+│   └── GroupAnagrams.java
 
 ## Progress
 
@@ -30,14 +32,16 @@ leetcode-journey/
 | 2 | Best Time to Buy and Sell Stock | Arrays | Easy | ✅ |
 | 2 | Contains Duplicate | Hashing | Easy | ✅ |
 | 3 | Two Sum II | Two Pointers | Medium | ✅ |
-| 4 | Product of Array Except Self | Prefix/Suffix Product | Medium | ✅ |
-| 5 | Maximum Subarray | Dynamic Programming (Kadane's Algorithm) | Medium | ✅ |
+| 3 | Product of Array Except Self | Prefix/Suffix Product | Medium | ✅ |
+| 3 | Maximum Subarray | Dynamic Programming (Kadane's Algorithm) | Medium | ✅ |
+| 4 | Valid Anagram | Hashing, Strings | Easy | ✅ |
+| 4 | Group Anagrams | HashMap, Strings | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **6**
-- Easy: **3**
-- Medium: **3**
+- Problems Solved: **8**
+- Easy: **4**
+- Medium: **4**
 - Hard: **0**
 
 ## Topics Covered
@@ -45,11 +49,15 @@ leetcode-journey/
 - Arrays
 - Hashing
 - HashMap
+- Strings
 - Two Pointers
 - Prefix & Suffix Products
 - Dynamic Programming
 - Kadane's Algorithm
-
+- Anagrams
+- Frequency Counting
+- Grouping Techniques
+  
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/learning-with-sc-9293ba415
