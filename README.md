@@ -6,6 +6,8 @@ Currently participating in the **#DrGViswanathan Challenge**.
 
 **Tracking my Data Structures & Algorithms journey through daily problem-solving and consistency.**
 
+# LeetCode Journey 🚀
+
 ## Repository Structure
 
 leetcode-journey/
@@ -17,12 +19,14 @@ leetcode-journey/
 │   ├── BestTimeToBuyAndSellStock.java
 │   ├── TwoSumII.java
 │   ├── ProductOfArrayExceptSelf.java
-│   └── MaximumSubarray.java
+│   ├── MaximumSubarray.java
+│   └── ContainsDuplicate.java
 │
-├── Hashing/
-│   ├── ContainsDuplicate.java
+├── Strings/
+│   ├── IsSubsequence.java
 │   ├── ValidAnagram.java
-│   └── GroupAnagrams.java
+│   ├── GroupAnagrams.java
+│   └── RansomNote.java
 
 ## Progress
 
@@ -36,28 +40,16 @@ leetcode-journey/
 | 3 | Maximum Subarray | Dynamic Programming (Kadane's Algorithm) | Medium | ✅ |
 | 4 | Valid Anagram | Hashing, Strings | Easy | ✅ |
 | 4 | Group Anagrams | HashMap, Strings | Medium | ✅ |
+| 5 | Ransom Note | Hashing, Frequency Counting | Easy | ✅ |
+| 5 | Is Subsequence | Strings, Two Pointers | Easy | ✅ |
 
 ## Stats
 
-- Problems Solved: **8**
-- Easy: **4**
+- Problems Solved: **10**
+- Easy: **6**
 - Medium: **4**
 - Hard: **0**
 
-## Topics Covered
-
-- Arrays
-- Hashing
-- HashMap
-- Strings
-- Two Pointers
-- Prefix & Suffix Products
-- Dynamic Programming
-- Kadane's Algorithm
-- Anagrams
-- Frequency Counting
-- Grouping Techniques
-  
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/learning-with-sc-9293ba415
