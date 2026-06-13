@@ -6,8 +6,6 @@ Currently participating in the **#DrGViswanathan Challenge**.
 
 **Tracking my Data Structures & Algorithms journey through daily problem-solving and consistency.**
 
-# LeetCode Journey 🚀
-
 ## Repository Structure
 
 leetcode-journey/
