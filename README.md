@@ -25,6 +25,12 @@ leetcode-journey/
 │   ├── ValidAnagram.java
 │   ├── GroupAnagrams.java
 │   └── RansomNote.java
+│
+├── Stack/
+│   └── ValidParentheses.java
+│
+└── Heap/
+    └── TopKFrequentElements.java
 
 ## Progress
 
@@ -40,14 +46,16 @@ leetcode-journey/
 | 4 | Group Anagrams | HashMap, Strings | Medium | ✅ |
 | 5 | Ransom Note | Hashing, Frequency Counting | Easy | ✅ |
 | 5 | Is Subsequence | Strings, Two Pointers | Easy | ✅ |
+| 6 | Valid Parentheses | Stack | Easy | ✅ |
+| 6 | Top K Frequent Elements | Heap, HashMap | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **10**
-- Easy: **6**
-- Medium: **4**
+- Problems Solved: **12**
+- Easy: **7**
+- Medium: **5**
 - Hard: **0**
-
+  
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/learning-with-sc-9293ba415
