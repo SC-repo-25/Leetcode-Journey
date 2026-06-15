@@ -29,8 +29,12 @@ leetcode-journey/
 ├── Stack/
 │   └── ValidParentheses.java
 │
-└── Heap/
-    └── TopKFrequentElements.java
+├── Heap/
+│   └── TopKFrequentElements.java
+│
+└── LinkedList/
+    ├── MergeTwoSortedLists.java
+    └── ReverseLinkedList.java
 
 ## Progress
 
@@ -48,14 +52,16 @@ leetcode-journey/
 | 5 | Is Subsequence | Strings, Two Pointers | Easy | ✅ |
 | 6 | Valid Parentheses | Stack | Easy | ✅ |
 | 6 | Top K Frequent Elements | Heap, HashMap | Medium | ✅ |
+| 7 | Merge Two Sorted Lists | Linked List | Easy | ✅ |
+| 7 | Reverse Linked List | Linked List | Easy | ✅ |
 
 ## Stats
 
-- Problems Solved: **12**
-- Easy: **7**
+- Problems Solved: **14**
+- Easy: **9**
 - Medium: **5**
 - Hard: **0**
-  
+
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/learning-with-sc-9293ba415
