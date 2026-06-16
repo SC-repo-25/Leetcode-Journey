@@ -34,7 +34,9 @@ leetcode-journey/
 │
 └── LinkedList/
     ├── MergeTwoSortedLists.java
-    └── ReverseLinkedList.java
+    ├── ReverseLinkedList.java
+    ├── LinkedListCycle.java
+    └── RemoveLinkedListElements.java
 
 ## Progress
 
@@ -54,14 +56,16 @@ leetcode-journey/
 | 6 | Top K Frequent Elements | Heap, HashMap | Medium | ✅ |
 | 7 | Merge Two Sorted Lists | Linked List | Easy | ✅ |
 | 7 | Reverse Linked List | Linked List | Easy | ✅ |
+| 8 | Linked List Cycle | Linked List, Two Pointers | Easy | ✅ |
+| 8 | Remove Linked List Elements | Linked List | Easy | ✅ |
 
 ## Stats
 
-- Problems Solved: **14**
-- Easy: **9**
+- Problems Solved: **16**
+- Easy: **11**
 - Medium: **5**
 - Hard: **0**
-
+  
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/learning-with-sc-9293ba415
