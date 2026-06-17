@@ -18,7 +18,8 @@ leetcode-journey/
 │   ├── TwoSumII.java
 │   ├── ProductOfArrayExceptSelf.java
 │   ├── MaximumSubarray.java
-│   └── ContainsDuplicate.java
+│   ├── ContainsDuplicate.java
+│   └── MergeIntervals.java
 │
 ├── Strings/
 │   ├── IsSubsequence.java
@@ -27,7 +28,8 @@ leetcode-journey/
 │   └── RansomNote.java
 │
 ├── Stack/
-│   └── ValidParentheses.java
+│   ├── ValidParentheses.java
+│   └── MinStack.java
 │
 ├── Heap/
 │   └── TopKFrequentElements.java
@@ -58,12 +60,14 @@ leetcode-journey/
 | 7 | Reverse Linked List | Linked List | Easy | ✅ |
 | 8 | Linked List Cycle | Linked List, Two Pointers | Easy | ✅ |
 | 8 | Remove Linked List Elements | Linked List | Easy | ✅ |
+| 9 | Min Stack | Stack, Design | Medium | ✅ |
+| 9 | Merge Intervals | Arrays, Sorting | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **16**
+- Problems Solved: **18**
 - Easy: **11**
-- Medium: **5**
+- Medium: **7**
 - Hard: **0**
   
 ## Connect
