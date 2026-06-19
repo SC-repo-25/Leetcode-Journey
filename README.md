@@ -38,13 +38,15 @@ leetcode-journey/
 │   ├── MergeTwoSortedLists.java
 │   ├── ReverseLinkedList.java
 │   ├── LinkedListCycle.java
-│   └── RemoveLinkedListElements.java
+│   ├── RemoveLinkedListElements.java
+│   └── RemoveNthNodeFromEnd.java
 │
 ├── TwoPointers/
 │   └── ThreeSum.java
 │
 └── BinarySearch/
-└── BinarySearch.java
+├── BinarySearch.java
+└── SearchInRotatedSortedArray.java
 
 ## Progress
 
@@ -70,13 +72,16 @@ leetcode-journey/
 | 9   | Merge Intervals                 | Arrays, Sorting                          | Medium     | ✅        |
 | 10  | 3Sum                            | Two Pointers                             | Medium     | ✅        |
 | 10  | Binary Search                   | Binary Search                            | Easy       | ✅        |
+| 11  | Search in Rotated Sorted Array  | Binary Search                            | Medium     | ✅        |
+| 11  | Remove Nth Node From End        | Linked List, Two Pointers                | Medium     | ✅        |
 
 ## Stats
 
-* Problems Solved: **20**
+* Problems Solved: **22**
 * Easy: **12**
-* Medium: **8**
+* Medium: **10**
 * Hard: **0**
+
   
 ## Connect
 
