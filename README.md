@@ -39,10 +39,10 @@ leetcode-journey/
 │   ├── ReverseLinkedList.java
 │   ├── LinkedListCycle.java
 │   ├── RemoveLinkedListElements.java
-│   └── RemoveNthNodeFromEnd.java
+│   └── RemoveNthNodeFromEndOfList.java
 │
 ├── TwoPointers/
-│   └── ThreeSum.java
+│   └── 3Sum.java
 │
 └── BinarySearch/
 ├── BinarySearch.java
