@@ -45,7 +45,8 @@ leetcode-journey/
 │   ├── LinkedListCycle.java
 │   ├── RemoveLinkedListElements.java
 │   ├── RemoveNthNodeFromEndOfList.java
-│   └── MiddleOfTheLinkedList.java
+│   ├── MiddleOfTheLinkedList.java
+│   └── AddTwoNumbers.java
 │
 ├── TwoPointers/
 │   ├── 3Sum.java
@@ -59,7 +60,8 @@ leetcode-journey/
 ├── DynamicProgramming/
 │   ├── UniquePaths.java
 │   ├── HouseRobber.java
-│   └── DecodeWays.java
+│   ├── DecodeWays.java
+│   └── CoinChange.java
 │
 └── BinarySearch/
     ├── BinarySearch.java
@@ -104,12 +106,14 @@ leetcode-journey/
 | 16  | Find the Duplicate Number                      | Two Pointers (Floyd's Cycle Detection) | Medium     | ✅ |
 | 17  | Decode Ways                                    | Dynamic Programming                    | Medium     | ✅ |
 | 17  | Find All Anagrams in a String                  | Sliding Window                         | Medium     | ✅ |
+| 18  | Add Two Numbers                                | Linked List                            | Medium     | ✅ |
+| 18  | Coin Change                                    | Dynamic Programming                    | Medium     | ✅ |
 
 ## Stats
 
-* Problems Solved: **34**
+* Problems Solved: **36**
 * Easy: **16**
-* Medium: **18**
+* Medium: **20**
 * Hard: **0**
   
 ## Connect
