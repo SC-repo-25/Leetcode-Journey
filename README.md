@@ -55,13 +55,15 @@ leetcode-journey/
 │
 ├── SlidingWindow/
 │   ├── LongestSubstringWithoutRepeatingCharacters.java
-│   └── FindAllAnagramsInAString.java
+│   ├── FindAllAnagramsInAString.java
+│   └── MinimumWindowSubstring.java
 │
 ├── DynamicProgramming/
 │   ├── UniquePaths.java
 │   ├── HouseRobber.java
 │   ├── DecodeWays.java
-│   └── CoinChange.java
+│   ├── CoinChange.java
+│   └── PerfectSquares.java
 │
 └── BinarySearch/
     ├── BinarySearch.java
@@ -108,13 +110,15 @@ leetcode-journey/
 | 17  | Find All Anagrams in a String                  | Sliding Window                         | Medium     | ✅ |
 | 18  | Add Two Numbers                                | Linked List                            | Medium     | ✅ |
 | 18  | Coin Change                                    | Dynamic Programming                    | Medium     | ✅ |
+| 19  | Perfect Squares                                | Dynamic Programming                    | Medium     | ✅ |
+| 19  | Minimum Window Substring                       | Sliding Window                         | Hard       | ✅ |
 
 ## Stats
 
-* Problems Solved: **36**
+* Problems Solved: **38**
 * Easy: **16**
-* Medium: **20**
-* Hard: **0**
+* Medium: **21**
+* Hard: **1**
   
 ## Connect
 
