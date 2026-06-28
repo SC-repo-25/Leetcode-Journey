@@ -51,7 +51,9 @@ leetcode-journey/
 ├── TwoPointers/
 │   ├── 3Sum.java
 │   ├── SquaresOfASortedArray.java
-│   └── FindTheDuplicateNumber.java
+│   ├── FindTheDuplicateNumber.java
+│   ├── ContainerWithMostWater.java
+│   └── TrappingRainWater.java
 │
 ├── SlidingWindow/
 │   ├── LongestSubstringWithoutRepeatingCharacters.java
@@ -112,13 +114,15 @@ leetcode-journey/
 | 18  | Coin Change                                    | Dynamic Programming                    | Medium     | ✅ |
 | 19  | Perfect Squares                                | Dynamic Programming                    | Medium     | ✅ |
 | 19  | Minimum Window Substring                       | Sliding Window                         | Hard       | ✅ |
+| 20  | Container With Most Water                      | Two Pointers                           | Medium     | ✅ |
+| 20  | Trapping Rain Water                            | Two Pointers                           | Hard       | ✅ |
 
 ## Stats
 
-* Problems Solved: **38**
+* Problems Solved: **40**
 * Easy: **16**
-* Medium: **21**
-* Hard: **1**
+* Medium: **22**
+* Hard: **2**
   
 ## Connect
 
