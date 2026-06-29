@@ -65,12 +65,14 @@ leetcode-journey/
 │   ├── HouseRobber.java
 │   ├── DecodeWays.java
 │   ├── CoinChange.java
-│   └── PerfectSquares.java
+│   ├── PerfectSquares.java
+│   └── WordBreak.java
 │
 └── BinarySearch/
     ├── BinarySearch.java
     ├── SearchInRotatedSortedArray.java
-    └── FindSmallestLetterGreaterThanTarget.java
+    ├── FindSmallestLetterGreaterThanTarget.java
+    └── MedianOfTwoSortedArrays.java
 
 ## Progress
 
@@ -116,13 +118,15 @@ leetcode-journey/
 | 19  | Minimum Window Substring                       | Sliding Window                         | Hard       | ✅ |
 | 20  | Container With Most Water                      | Two Pointers                           | Medium     | ✅ |
 | 20  | Trapping Rain Water                            | Two Pointers                           | Hard       | ✅ |
+| 21  | Median of Two Sorted Arrays                    | Binary Search                          | Hard       | ✅ |
+| 21  | Word Break                                     | Dynamic Programming                    | Medium     | ✅ |
 
 ## Stats
 
-* Problems Solved: **40**
+* Problems Solved: **42**
 * Easy: **16**
-* Medium: **22**
-* Hard: **2**
+* Medium: **23**
+* Hard: **3**
   
 ## Connect
 
