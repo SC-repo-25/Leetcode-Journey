@@ -66,13 +66,16 @@ leetcode-journey/
 │   ├── DecodeWays.java
 │   ├── CoinChange.java
 │   ├── PerfectSquares.java
-│   └── WordBreak.java
+│   ├── WordBreak.java
+│   └── EditDistance.java
 │
 └── BinarySearch/
     ├── BinarySearch.java
     ├── SearchInRotatedSortedArray.java
     ├── FindSmallestLetterGreaterThanTarget.java
-    └── MedianOfTwoSortedArrays.java
+    ├── MedianOfTwoSortedArrays.java
+    └── LongestIncreasingSubsequence.java
+```
 
 ## Progress
 
@@ -120,13 +123,15 @@ leetcode-journey/
 | 20  | Trapping Rain Water                            | Two Pointers                           | Hard       | ✅ |
 | 21  | Median of Two Sorted Arrays                    | Binary Search                          | Hard       | ✅ |
 | 21  | Word Break                                     | Dynamic Programming                    | Medium     | ✅ |
+| 22  | Longest Increasing Subsequence                 | Binary Search, Dynamic Programming     | Medium     | ✅ |
+| 22  | Edit Distance                                  | Dynamic Programming                    | Hard       | ✅ |
 
 ## Stats
 
-* Problems Solved: **42**
+* Problems Solved: **44**
 * Easy: **16**
-* Medium: **23**
-* Hard: **3**
+* Medium: **24**
+* Hard: **4**
   
 ## Connect
 
