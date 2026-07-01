@@ -35,6 +35,9 @@ leetcode-journey/
 │   ├── MinStack.java
 │   └── ImplementQueueUsingStacks.java
 │
+├── Queue/
+│   └── SlidingWindowMaximum.java
+│
 ├── Heap/
 │   ├── TopKFrequentElements.java
 │   └── KthLargestElementInAnArray.java
@@ -67,7 +70,8 @@ leetcode-journey/
 │   ├── CoinChange.java
 │   ├── PerfectSquares.java
 │   ├── WordBreak.java
-│   └── EditDistance.java
+│   ├── EditDistance.java
+│   └── RegularExpressionMatching.java
 │
 └── BinarySearch/
     ├── BinarySearch.java
@@ -75,7 +79,6 @@ leetcode-journey/
     ├── FindSmallestLetterGreaterThanTarget.java
     ├── MedianOfTwoSortedArrays.java
     └── LongestIncreasingSubsequence.java
-```
 
 ## Progress
 
@@ -125,13 +128,15 @@ leetcode-journey/
 | 21  | Word Break                                     | Dynamic Programming                    | Medium     | ✅ |
 | 22  | Longest Increasing Subsequence                 | Binary Search, Dynamic Programming     | Medium     | ✅ |
 | 22  | Edit Distance                                  | Dynamic Programming                    | Hard       | ✅ |
+| 23  | Sliding Window Maximum                         | Queue (Monotonic Deque)                | Hard       | ✅ |
+| 23  | Regular Expression Matching                    | Dynamic Programming                    | Hard       | ✅ |
 
 ## Stats
 
-* Problems Solved: **44**
+* Problems Solved: **46**
 * Easy: **16**
 * Medium: **24**
-* Hard: **4**
+* Hard: **6**
   
 ## Connect
 
