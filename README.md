@@ -40,7 +40,9 @@ leetcode-journey/
 │
 ├── Heap/
 │   ├── TopKFrequentElements.java
-│   └── KthLargestElementInAnArray.java
+│   ├── KthLargestElementInAnArray.java
+│   ├── MergeKSortedLists.java
+│   └── DesignTwitter.java
 │
 ├── LinkedList/
 │   ├── MergeTwoSortedLists.java
@@ -130,13 +132,15 @@ leetcode-journey/
 | 22  | Edit Distance                                  | Dynamic Programming                    | Hard       | ✅ |
 | 23  | Sliding Window Maximum                         | Queue (Monotonic Deque)                | Hard       | ✅ |
 | 23  | Regular Expression Matching                    | Dynamic Programming                    | Hard       | ✅ |
+| 24  | Merge k Sorted Lists                           | Heap (Priority Queue), Linked List     | Hard       | ✅ |
+| 24  | Design Twitter                                 | Heap, HashMap, Design                  | Medium     | ✅ |
 
 ## Stats
 
-* Problems Solved: **46**
+* Problems Solved: **48**
 * Easy: **16**
-* Medium: **24**
-* Hard: **6**
+* Medium: **25**
+* Hard: **7**
   
 ## Connect
 
