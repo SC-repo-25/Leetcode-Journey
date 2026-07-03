@@ -73,7 +73,9 @@ leetcode-journey/
 │   ├── PerfectSquares.java
 │   ├── WordBreak.java
 │   ├── EditDistance.java
-│   └── RegularExpressionMatching.java
+│   ├── RegularExpressionMatching.java
+│   ├── MaximumProfitInJobScheduling.java
+│   └── BurstBalloons.java
 │
 └── BinarySearch/
     ├── BinarySearch.java
@@ -134,13 +136,15 @@ leetcode-journey/
 | 23  | Regular Expression Matching                    | Dynamic Programming                    | Hard       | ✅ |
 | 24  | Merge k Sorted Lists                           | Heap (Priority Queue), Linked List     | Hard       | ✅ |
 | 24  | Design Twitter                                 | Heap, HashMap, Design                  | Medium     | ✅ |
+| 25  | Maximum Profit in Job Scheduling               | Dynamic Programming, Binary Search     | Hard       | ✅ |
+| 25  | Burst Balloons                                 | Dynamic Programming (Interval DP)      | Hard       | ✅ |
 
 ## Stats
 
-* Problems Solved: **48**
+* Problems Solved: **50**
 * Easy: **16**
 * Medium: **25**
-* Hard: **7**
+* Hard: **9**
   
 ## Connect
 
