@@ -33,7 +33,8 @@ leetcode-journey/
 ├── Stack/
 │   ├── ValidParentheses.java
 │   ├── MinStack.java
-│   └── ImplementQueueUsingStacks.java
+│   ├── ImplementQueueUsingStacks.java
+│   └── LargestRectangleInHistogram.java
 │
 ├── Queue/
 │   └── SlidingWindowMaximum.java
@@ -75,7 +76,8 @@ leetcode-journey/
 │   ├── EditDistance.java
 │   ├── RegularExpressionMatching.java
 │   ├── MaximumProfitInJobScheduling.java
-│   └── BurstBalloons.java
+│   ├── BurstBalloons.java
+│   └── PalindromePartitioningII.java
 │
 └── BinarySearch/
     ├── BinarySearch.java
@@ -138,13 +140,15 @@ leetcode-journey/
 | 24  | Design Twitter                                 | Heap, HashMap, Design                  | Medium     | ✅ |
 | 25  | Maximum Profit in Job Scheduling               | Dynamic Programming, Binary Search     | Hard       | ✅ |
 | 25  | Burst Balloons                                 | Dynamic Programming (Interval DP)      | Hard       | ✅ |
+| 26  | Palindrome Partitioning II                     | Dynamic Programming                    | Hard       | ✅ |
+| 26  | Largest Rectangle in Histogram                 | Stack (Monotonic Stack)                | Hard       | ✅ |
 
 ## Stats
 
-* Problems Solved: **50**
+* Problems Solved: **52**
 * Easy: **16**
 * Medium: **25**
-* Hard: **9**
+* Hard: **11**
   
 ## Connect
 
