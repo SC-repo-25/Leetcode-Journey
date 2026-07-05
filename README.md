@@ -77,7 +77,9 @@ leetcode-journey/
 │   ├── RegularExpressionMatching.java
 │   ├── MaximumProfitInJobScheduling.java
 │   ├── BurstBalloons.java
-│   └── PalindromePartitioningII.java
+│   ├── PalindromePartitioningII.java
+│   ├── HouseRobberII.java
+│   └── JumpGame.java
 │
 └── BinarySearch/
     ├── BinarySearch.java
@@ -142,14 +144,16 @@ leetcode-journey/
 | 25  | Burst Balloons                                 | Dynamic Programming (Interval DP)      | Hard       | ✅ |
 | 26  | Palindrome Partitioning II                     | Dynamic Programming                    | Hard       | ✅ |
 | 26  | Largest Rectangle in Histogram                 | Stack (Monotonic Stack)                | Hard       | ✅ |
+| 27  | House Robber II                                | Dynamic Programming                    | Medium     | ✅ |
+| 27  | Jump Game                                      | Dynamic Programming (Greedy)           | Medium     | ✅ |
 
 ## Stats
 
-* Problems Solved: **52**
+* Problems Solved: **54**
 * Easy: **16**
-* Medium: **25**
+* Medium: **27**
 * Hard: **11**
-  
+
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/learning-with-sc-9293ba415
