@@ -85,12 +85,16 @@ leetcode-journey/
 │   ├── HouseRobberII.java
 │   └── JumpGame.java
 │
-└── BinarySearch/
-    ├── BinarySearch.java
-    ├── SearchInRotatedSortedArray.java
-    ├── FindSmallestLetterGreaterThanTarget.java
-    ├── MedianOfTwoSortedArrays.java
-    └── LongestIncreasingSubsequence.java
+├── BinarySearch/
+│   ├── BinarySearch.java
+│   ├── SearchInRotatedSortedArray.java
+│   ├── FindSmallestLetterGreaterThanTarget.java
+│   ├── MedianOfTwoSortedArrays.java
+│   └── LongestIncreasingSubsequence.java
+│
+└── BitManipulation/
+    ├── NumberOf1Bits.java
+    └── CountingBits.java
 
 ## Progress
 
@@ -152,11 +156,13 @@ leetcode-journey/
 | 27  | Jump Game                                      | Dynamic Programming (Greedy)           | Medium     | ✅        |
 | 28  | Insert Interval                                | Intervals (Greedy, Merge Intervals)    | Medium     | ✅        |
 | 28  | Non-overlapping Intervals                      | Intervals (Greedy, Sorting)            | Medium     | ✅        |
+| 29  | Number of 1 Bits                               | Bit Manipulation                       | Easy       | ✅        |
+| 29  | Counting Bits                                  | Bit Manipulation, Dynamic Programming  | Easy       | ✅        |
 
 ## Stats
 
-* Problems Solved: **56**
-* Easy: **16**
+* Problems Solved: **58**
+* Easy: **18**
 * Medium: **29**
 * Hard: **11**
 
