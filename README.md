@@ -92,11 +92,15 @@ leetcode-journey/
 │   ├── MedianOfTwoSortedArrays.java
 │   └── LongestIncreasingSubsequence.java
 │
-└── BitManipulation/
-    ├── NumberOf1Bits.java
-    ├── CountingBits.java
-    ├── ReverseBits.java
-    └── MissingNumber.java
+├── BitManipulation/
+│   ├── NumberOf1Bits.java
+│   ├── CountingBits.java
+│   ├── ReverseBits.java
+│   ├── MissingNumber.java
+│   └── SumOfTwoIntegers.java
+│
+└── Trie/
+    └── ImplementTriePrefixTree.java
 
 ## Progress
 
@@ -162,12 +166,14 @@ leetcode-journey/
 | 29 | Counting Bits | Bit Manipulation, Dynamic Programming | Easy | ✅ |
 | 30 | Reverse Bits | Bit Manipulation | Easy | ✅ |
 | 30 | Missing Number | Bit Manipulation, XOR | Easy | ✅ |
+| 31 | Sum of Two Integers | Bit Manipulation | Medium | ✅ |
+| 31 | Implement Trie (Prefix Tree) | Trie, Design | Medium | ✅ |
 
 ## Stats
 
-* Problems Solved: **60**
+* Problems Solved: **62**
 * Easy: **20**
-* Medium: **29**
+* Medium: **31**
 * Hard: **11**
 
 ## Connect
