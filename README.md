@@ -100,7 +100,9 @@ leetcode-journey/
 │   └── SumOfTwoIntegers.java
 │
 └── Trie/
-    └── ImplementTriePrefixTree.java
+    ├── ImplementTriePrefixTree.java
+    ├── DesignAddAndSearchWordsDataStructure.java
+    └── WordSearchII.java
 
 ## Progress
 
@@ -168,13 +170,15 @@ leetcode-journey/
 | 30 | Missing Number | Bit Manipulation, XOR | Easy | ✅ |
 | 31 | Sum of Two Integers | Bit Manipulation | Medium | ✅ |
 | 31 | Implement Trie (Prefix Tree) | Trie, Design | Medium | ✅ |
+| 32 | Design Add and Search Words Data Structure | Trie, DFS, Backtracking, Design | Medium | ✅ |
+| 32 | Word Search II | Trie, DFS, Backtracking | Hard | ✅ |
 
 ## Stats
 
-* Problems Solved: **62**
+* Problems Solved: **64**
 * Easy: **20**
-* Medium: **31**
-* Hard: **11**
+* Medium: **32**
+* Hard: **12**
 
 ## Connect
 
