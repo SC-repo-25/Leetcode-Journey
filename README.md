@@ -99,10 +99,14 @@ leetcode-journey/
 │   ├── MissingNumber.java
 │   └── SumOfTwoIntegers.java
 │
-└── Trie/
-    ├── ImplementTriePrefixTree.java
-    ├── DesignAddAndSearchWordsDataStructure.java
-    └── WordSearchII.java
+├── Trie/
+│   ├── ImplementTriePrefixTree.java
+│   ├── DesignAddAndSearchWordsDataStructure.java
+│   └── WordSearchII.java
+│
+└── Trees/
+    ├── MaximumDepthOfBinaryTree.java
+    └── SameTree.java
 
 ## Progress
 
@@ -172,11 +176,13 @@ leetcode-journey/
 | 31 | Implement Trie (Prefix Tree) | Trie, Design | Medium | ✅ |
 | 32 | Design Add and Search Words Data Structure | Trie, DFS, Backtracking, Design | Medium | ✅ |
 | 32 | Word Search II | Trie, DFS, Backtracking | Hard | ✅ |
+| 33 | Maximum Depth of Binary Tree | Trees, DFS | Easy | ✅ |
+| 33 | Same Tree | Trees, DFS | Easy | ✅ |
 
 ## Stats
 
-* Problems Solved: **64**
-* Easy: **20**
+* Problems Solved: **66**
+* Easy: **22**
 * Medium: **32**
 * Hard: **12**
 
