@@ -104,13 +104,17 @@ leetcode-journey/
 │   ├── DesignAddAndSearchWordsDataStructure.java
 │   └── WordSearchII.java
 │
+├── Graphs/
+│   └── CloneGraph.java
+│
 └── Trees/
     ├── MaximumDepthOfBinaryTree.java
     ├── SameTree.java
     ├── InvertBinaryTree.java
     ├── BinaryTreeLevelOrderTraversal.java
     ├── ValidateBinarySearchTree.java
-    └── BalancedBinaryTree.java
+    ├── BalancedBinaryTree.java
+    └── LowestCommonAncestorOfABinarySearchTree.java
 
 ## Progress
 
@@ -186,12 +190,14 @@ leetcode-journey/
 | 34  | Binary Tree Level Order Traversal              | Trees, BFS (Queue)                     | Medium     | ✅ |
 | 35  | Validate Binary Search Tree                    | Trees, DFS, BST                        | Medium     | ✅ |
 | 35  | Balanced Binary Tree                           | Trees, DFS                             | Easy       | ✅ |
+| 36  | Lowest Common Ancestor of a Binary Search Tree | Trees, BST, DFS                        | Medium     | ✅ |
+| 36  | Clone Graph                                    | Graphs, DFS, HashMap                   | Medium     | ✅ |
 
 ## Stats
 
-* Problems Solved: **70**
+* Problems Solved: **72**
 * Easy: **24**
-* Medium: **34**
+* Medium: **36**
 * Hard: **12**
 
 ## Connect
