@@ -105,7 +105,9 @@ leetcode-journey/
 │   └── WordSearchII.java
 │
 ├── Graphs/
-│   └── CloneGraph.java
+│   ├── CloneGraph.java
+│   ├── CourseSchedule.java
+│   └── PacificAtlanticWaterFlow.java
 │
 └── Trees/
     ├── MaximumDepthOfBinaryTree.java
@@ -192,12 +194,14 @@ leetcode-journey/
 | 35  | Balanced Binary Tree                           | Trees, DFS                             | Easy       | ✅ |
 | 36  | Lowest Common Ancestor of a Binary Search Tree | Trees, BST, DFS                        | Medium     | ✅ |
 | 36  | Clone Graph                                    | Graphs, DFS, HashMap                   | Medium     | ✅ |
+| 37  | Course Schedule                                | Graphs, Topological Sort (BFS)         | Medium     | ✅ |
+| 37  | Pacific Atlantic Water Flow                    | Graphs, DFS                            | Medium     | ✅ |
 
 ## Stats
 
-* Problems Solved: **72**
+* Problems Solved: **74**
 * Easy: **24**
-* Medium: **36**
+* Medium: **38**
 * Hard: **12**
 
 ## Connect
