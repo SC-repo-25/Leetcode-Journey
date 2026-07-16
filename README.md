@@ -107,7 +107,8 @@ leetcode-journey/
 ├── Graphs/
 │   ├── CloneGraph.java
 │   ├── CourseSchedule.java
-│   └── PacificAtlanticWaterFlow.java
+│   ├── PacificAtlanticWaterFlow.java
+│   └── WordLadder.java
 │
 └── Trees/
     ├── MaximumDepthOfBinaryTree.java
@@ -116,7 +117,8 @@ leetcode-journey/
     ├── BinaryTreeLevelOrderTraversal.java
     ├── ValidateBinarySearchTree.java
     ├── BalancedBinaryTree.java
-    └── LowestCommonAncestorOfABinarySearchTree.java
+    ├── LowestCommonAncestorOfABinarySearchTree.java
+    └── SymmetricTree.java
 
 ## Progress
 
@@ -196,13 +198,15 @@ leetcode-journey/
 | 36  | Clone Graph                                    | Graphs, DFS, HashMap                   | Medium     | ✅ |
 | 37  | Course Schedule                                | Graphs, Topological Sort (BFS)         | Medium     | ✅ |
 | 37  | Pacific Atlantic Water Flow                    | Graphs, DFS                            | Medium     | ✅ |
+| 38  | Word Ladder                                    | Graphs, BFS                            | Hard       | ✅ |
+| 38  | Symmetric Tree                                 | Trees, DFS                             | Easy       | ✅ |
 
 ## Stats
 
-* Problems Solved: **74**
-* Easy: **24**
+* Problems Solved: **76**
+* Easy: **25**
 * Medium: **38**
-* Hard: **12**
+* Hard: **13**
 
 ## Connect
 
