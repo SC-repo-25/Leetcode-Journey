@@ -118,11 +118,13 @@ leetcode-journey/
     ├── ValidateBinarySearchTree.java
     ├── BalancedBinaryTree.java
     ├── LowestCommonAncestorOfABinarySearchTree.java
-    └── SymmetricTree.java
+    ├── SymmetricTree.java
+    ├── DiameterOfBinaryTree.java
+    └── KthSmallestElementInABST.java
 
 ## Progress
 
-| Day | Problem                                        | Topic                                  | Difficulty | Solution |
+| Day | Problem | Topic | Difficulty | Solution |
 | --- | ---------------------------------------------- | -------------------------------------- | ---------- | -------- |
 | 1   | Two Sum                                        | Arrays, HashMap                        | Easy       | ✅ |
 | 2   | Best Time to Buy and Sell Stock                | Arrays                                 | Easy       | ✅ |
@@ -200,12 +202,14 @@ leetcode-journey/
 | 37  | Pacific Atlantic Water Flow                    | Graphs, DFS                            | Medium     | ✅ |
 | 38  | Word Ladder                                    | Graphs, BFS                            | Hard       | ✅ |
 | 38  | Symmetric Tree                                 | Trees, DFS                             | Easy       | ✅ |
+| 39  | Diameter of Binary Tree                        | Trees, DFS                             | Easy       | ✅ |
+| 39  | Kth Smallest Element in a BST                  | Trees, BST, Inorder Traversal          | Medium     | ✅ |
 
 ## Stats
 
-* Problems Solved: **76**
-* Easy: **25**
-* Medium: **38**
+* Problems Solved: **78**
+* Easy: **26**
+* Medium: **39**
 * Hard: **13**
 
 ## Connect
