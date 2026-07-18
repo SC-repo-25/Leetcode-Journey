@@ -120,7 +120,9 @@ leetcode-journey/
     ├── LowestCommonAncestorOfABinarySearchTree.java
     ├── SymmetricTree.java
     ├── DiameterOfBinaryTree.java
-    └── KthSmallestElementInABST.java
+    ├── KthSmallestElementInABST.java
+    ├── FlattenBinaryTreeToLinkedList.java
+    └── SerializeAndDeserializeBinaryTree.java
 
 ## Progress
 
@@ -204,13 +206,15 @@ leetcode-journey/
 | 38  | Symmetric Tree                                 | Trees, DFS                             | Easy       | ✅ |
 | 39  | Diameter of Binary Tree                        | Trees, DFS                             | Easy       | ✅ |
 | 39  | Kth Smallest Element in a BST                  | Trees, BST, Inorder Traversal          | Medium     | ✅ |
+| 40  | Flatten Binary Tree to Linked List             | Trees, DFS, Morris Traversal           | Medium     | ✅ |
+| 40  | Serialize and Deserialize Binary Tree          | Trees, DFS, Design                     | Hard       | ✅ |
 
 ## Stats
 
-* Problems Solved: **78**
+* Problems Solved: **80**
 * Easy: **26**
-* Medium: **39**
-* Hard: **13**
+* Medium: **40**
+* Hard: **14**
 
 ## Connect
 
