@@ -122,7 +122,9 @@ leetcode-journey/
     ├── DiameterOfBinaryTree.java
     ├── KthSmallestElementInABST.java
     ├── FlattenBinaryTreeToLinkedList.java
-    └── SerializeAndDeserializeBinaryTree.java
+    ├── SerializeAndDeserializeBinaryTree.java
+    ├── IslandPerimeter.java
+    └── ConstructBinaryTreeFromPreorderAndInorderTraversal.java
 
 ## Progress
 
@@ -195,7 +197,7 @@ leetcode-journey/
 | 33  | Maximum Depth of Binary Tree                   | Trees, DFS                             | Easy       | ✅ |
 | 33  | Same Tree                                      | Trees, DFS                             | Easy       | ✅ |
 | 34  | Invert Binary Tree                             | Trees, DFS                             | Easy       | ✅ |
-| 34  | Binary Tree Level Order Traversal              | Trees, BFS (Queue)                     | Medium     | ✅ |
+| 34  | Binary Tree Level Order Traversal              | Trees, BFS (Queue)                     | Medium       | ✅ |
 | 35  | Validate Binary Search Tree                    | Trees, DFS, BST                        | Medium     | ✅ |
 | 35  | Balanced Binary Tree                           | Trees, DFS                             | Easy       | ✅ |
 | 36  | Lowest Common Ancestor of a Binary Search Tree | Trees, BST, DFS                        | Medium     | ✅ |
@@ -208,12 +210,14 @@ leetcode-journey/
 | 39  | Kth Smallest Element in a BST                  | Trees, BST, Inorder Traversal          | Medium     | ✅ |
 | 40  | Flatten Binary Tree to Linked List             | Trees, DFS, Morris Traversal           | Medium     | ✅ |
 | 40  | Serialize and Deserialize Binary Tree          | Trees, DFS, Design                     | Hard       | ✅ |
+| 41  | Island Perimeter                               | Trees, DFS (Grid Traversal)            | Easy       | ✅ |
+| 41  | Construct Binary Tree from Preorder and Inorder Traversal | Trees, DFS, HashMap         | Medium     | ✅ |
 
 ## Stats
 
-* Problems Solved: **80**
-* Easy: **26**
-* Medium: **40**
+* Problems Solved: **82**
+* Easy: **27**
+* Medium: **41**
 * Hard: **14**
 
 ## Connect
