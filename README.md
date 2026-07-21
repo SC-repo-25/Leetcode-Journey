@@ -110,6 +110,9 @@ leetcode-journey/
 │   ├── PacificAtlanticWaterFlow.java
 │   └── WordLadder.java
 │
+├── Backtracking/
+│   └── NQueens.java
+│
 └── Trees/
     ├── MaximumDepthOfBinaryTree.java
     ├── SameTree.java
@@ -126,7 +129,8 @@ leetcode-journey/
     ├── IslandPerimeter.java
     ├── ConstructBinaryTreeFromPreorderAndInorderTraversal.java
     ├── CountOfSmallerNumbersAfterSelf.java
-    └── AverageOfLevelsInBinaryTree.java
+    ├── AverageOfLevelsInBinaryTree.java
+    └── BinaryTreeMaximumPathSum.java
 
 ## Progress
 
@@ -216,13 +220,15 @@ leetcode-journey/
 | 41  | Construct Binary Tree from Preorder and Inorder Traversal | Trees, DFS, HashMap | Medium | ✅ |
 | 42  | Count of Smaller Numbers After Self | Trees, Merge Sort | Hard | ✅ |
 | 42  | Average of Levels in Binary Tree | Trees, BFS (Level Order Traversal) | Easy | ✅ |
+| 43  | Binary Tree Maximum Path Sum | Trees, DFS | Hard | ✅ |
+| 43  | N-Queens | Backtracking | Hard | ✅ |
 
 ## Stats
 
-* Problems Solved: **84**
+* Problems Solved: **86**
 * Easy: **28**
 * Medium: **41**
-* Hard: **15**
+* Hard: **17**
 
 ## Connect
 
