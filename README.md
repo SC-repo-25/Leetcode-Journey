@@ -32,7 +32,8 @@ leetcode-journey/
 │   └── RansomNote.java
 │
 ├── HashMap/
-│   └── SubarraySumEqualsK.java
+│   ├── SubarraySumEqualsK.java
+│   └── LRUCache.java
 │
 ├── Stack/
 │   ├── ValidParentheses.java
@@ -111,7 +112,8 @@ leetcode-journey/
 │   └── WordLadder.java
 │
 ├── Backtracking/
-│   └── NQueens.java
+│   ├── NQueens.java
+│   └── SudokuSolver.java
 │
 └── Trees/
     ├── MaximumDepthOfBinaryTree.java
@@ -222,13 +224,15 @@ leetcode-journey/
 | 42  | Average of Levels in Binary Tree | Trees, BFS (Level Order Traversal) | Easy | ✅ |
 | 43  | Binary Tree Maximum Path Sum | Trees, DFS | Hard | ✅ |
 | 43  | N-Queens | Backtracking | Hard | ✅ |
+| 44  | Sudoku Solver | Backtracking | Hard | ✅ |
+| 44  | LRU Cache | HashMap, Doubly Linked List, Design | Medium | ✅ |
 
 ## Stats
 
-* Problems Solved: **86**
+* Problems Solved: **88**
 * Easy: **28**
-* Medium: **41**
-* Hard: **17**
+* Medium: **42**
+* Hard: **18**
 
 ## Connect
 
