@@ -48,7 +48,8 @@ leetcode-journey/
 │   ├── TopKFrequentElements.java
 │   ├── KthLargestElementInAnArray.java
 │   ├── MergeKSortedLists.java
-│   └── DesignTwitter.java
+│   ├── DesignTwitter.java
+│   └── TaskScheduler.java
 │
 ├── LinkedList/
 │   ├── MergeTwoSortedLists.java
@@ -138,7 +139,8 @@ leetcode-journey/
     ├── ConstructBinaryTreeFromPreorderAndInorderTraversal.java
     ├── CountOfSmallerNumbersAfterSelf.java
     ├── AverageOfLevelsInBinaryTree.java
-    └── BinaryTreeMaximumPathSum.java
+    ├── BinaryTreeMaximumPathSum.java
+    └── BinaryTreeRightSideView.java
 
 ## Progress
 
@@ -234,12 +236,14 @@ leetcode-journey/
 | 44 | LRU Cache | HashMap, Doubly Linked List, Design | Medium | ✅ |
 | 45 | Rotting Oranges | BFS (Multi-Source BFS, Queue) | Medium | ✅ |
 | 45 | Number of Islands | DFS (Grid Traversal) | Medium | ✅ |
+| 46 | Binary Tree Right Side View | Trees, BFS (Level Order Traversal) | Medium | ✅ |
+| 46 | Task Scheduler | Heap, Greedy, Counting | Medium | ✅ |
 
 ## Stats
 
-* Problems Solved: **90**
+* Problems Solved: **92**
 * Easy: **28**
-* Medium: **44**
+* Medium: **46**
 * Hard: **18**
 
 ## Connect
