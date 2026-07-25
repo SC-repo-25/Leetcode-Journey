@@ -98,7 +98,9 @@ leetcode-journey/
 │   ├── SearchInRotatedSortedArray.java
 │   ├── FindSmallestLetterGreaterThanTarget.java
 │   ├── MedianOfTwoSortedArrays.java
-│   └── LongestIncreasingSubsequence.java
+│   ├── LongestIncreasingSubsequence.java
+│   ├── FindFirstAndLastPositionOfElementInSortedArray.java
+│   └── SearchInsertPosition.java
 │
 ├── BitManipulation/
 │   ├── NumberOf1Bits.java
@@ -238,12 +240,14 @@ leetcode-journey/
 | 45 | Number of Islands | DFS (Grid Traversal) | Medium | ✅ |
 | 46 | Binary Tree Right Side View | Trees, BFS (Level Order Traversal) | Medium | ✅ |
 | 46 | Task Scheduler | Heap, Greedy, Counting | Medium | ✅ |
+| 47 | Find First and Last Position of Element in Sorted Array | Binary Search | Medium | ✅ |
+| 47 | Search Insert Position | Binary Search | Easy | ✅ |
 
 ## Stats
 
-* Problems Solved: **92**
-* Easy: **28**
-* Medium: **46**
+* Problems Solved: **94**
+* Easy: **29**
+* Medium: **47**
 * Hard: **18**
 
 ## Connect
