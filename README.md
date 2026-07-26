@@ -100,7 +100,9 @@ leetcode-journey/
 │   ├── MedianOfTwoSortedArrays.java
 │   ├── LongestIncreasingSubsequence.java
 │   ├── FindFirstAndLastPositionOfElementInSortedArray.java
-│   └── SearchInsertPosition.java
+│   ├── SearchInsertPosition.java
+│   ├── SearchInRotatedSortedArrayII.java
+│   └── FindMinimumInRotatedSortedArray.java
 │
 ├── BitManipulation/
 │   ├── NumberOf1Bits.java
@@ -242,12 +244,14 @@ leetcode-journey/
 | 46 | Task Scheduler | Heap, Greedy, Counting | Medium | ✅ |
 | 47 | Find First and Last Position of Element in Sorted Array | Binary Search | Medium | ✅ |
 | 47 | Search Insert Position | Binary Search | Easy | ✅ |
+| 48 | Search in Rotated Sorted Array II | Binary Search | Medium | ✅ |
+| 48 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | ✅ |
 
 ## Stats
 
-* Problems Solved: **94**
+* Problems Solved: **96**
 * Easy: **29**
-* Medium: **47**
+* Medium: **49**
 * Hard: **18**
 
 ## Connect
