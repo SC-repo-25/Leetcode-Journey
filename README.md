@@ -102,7 +102,9 @@ leetcode-journey/
 │   ├── FindFirstAndLastPositionOfElementInSortedArray.java
 │   ├── SearchInsertPosition.java
 │   ├── SearchInRotatedSortedArrayII.java
-│   └── FindMinimumInRotatedSortedArray.java
+│   ├── FindMinimumInRotatedSortedArray.java
+│   ├── SingleElementInASortedArray.java
+│   └── FindPeakElement.java
 │
 ├── BitManipulation/
 │   ├── NumberOf1Bits.java
@@ -246,12 +248,14 @@ leetcode-journey/
 | 47 | Search Insert Position | Binary Search | Easy | ✅ |
 | 48 | Search in Rotated Sorted Array II | Binary Search | Medium | ✅ |
 | 48 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | ✅ |
+| 49 | Single Element in a Sorted Array | Binary Search | Medium | ✅ |
+| 49 | Find Peak Element | Binary Search | Medium | ✅ |
 
 ## Stats
 
-* Problems Solved: **96**
+* Problems Solved: **98**
 * Easy: **29**
-* Medium: **49**
+* Medium: **51**
 * Hard: **18**
 
 ## Connect
