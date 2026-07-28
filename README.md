@@ -104,7 +104,9 @@ leetcode-journey/
 │   ├── SearchInRotatedSortedArrayII.java
 │   ├── FindMinimumInRotatedSortedArray.java
 │   ├── SingleElementInASortedArray.java
-│   └── FindPeakElement.java
+│   ├── FindPeakElement.java
+│   ├── KokoEatingBananas.java
+│   └── MinimumNumberOfDaysToMakeMBouquets.java
 │
 ├── BitManipulation/
 │   ├── NumberOf1Bits.java
@@ -250,12 +252,14 @@ leetcode-journey/
 | 48 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | ✅ |
 | 49 | Single Element in a Sorted Array | Binary Search | Medium | ✅ |
 | 49 | Find Peak Element | Binary Search | Medium | ✅ |
+| 50 | Koko Eating Bananas | Binary Search on Answer | Medium | ✅ |
+| 50 | Minimum Number of Days to Make m Bouquets | Binary Search on Answer | Medium | ✅ |
 
 ## Stats
 
-* Problems Solved: **98**
+* Problems Solved: **100**
 * Easy: **29**
-* Medium: **51**
+* Medium: **53**
 * Hard: **18**
 
 ## Connect
