@@ -106,7 +106,9 @@ leetcode-journey/
 │   ├── SingleElementInASortedArray.java
 │   ├── FindPeakElement.java
 │   ├── KokoEatingBananas.java
-│   └── MinimumNumberOfDaysToMakeMBouquets.java
+│   ├── MinimumNumberOfDaysToMakeMBouquets.java
+│   ├── FindTheSmallestDivisorGivenAThreshold.java
+│   └── CapacityToShipPackagesWithinDDays.java
 │
 ├── BitManipulation/
 │   ├── NumberOf1Bits.java
@@ -254,12 +256,14 @@ leetcode-journey/
 | 49 | Find Peak Element | Binary Search | Medium | ✅ |
 | 50 | Koko Eating Bananas | Binary Search on Answer | Medium | ✅ |
 | 50 | Minimum Number of Days to Make m Bouquets | Binary Search on Answer | Medium | ✅ |
+| 51 | Find the Smallest Divisor Given a Threshold | Binary Search on Answer | Medium | ✅ |
+| 51 | Capacity To Ship Packages Within D Days | Binary Search on Answer | Medium | ✅ |
 
 ## Stats
 
-* Problems Solved: **100**
+* Problems Solved: **102**
 * Easy: **29**
-* Medium: **53**
+* Medium: **55**
 * Hard: **18**
 
 ## Connect
