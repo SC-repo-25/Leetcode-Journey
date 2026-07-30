@@ -108,7 +108,9 @@ leetcode-journey/
 │   ├── KokoEatingBananas.java
 │   ├── MinimumNumberOfDaysToMakeMBouquets.java
 │   ├── FindTheSmallestDivisorGivenAThreshold.java
-│   └── CapacityToShipPackagesWithinDDays.java
+│   ├── CapacityToShipPackagesWithinDDays.java
+│   ├── KthMissingPositiveNumber.java
+│   └── SplitArrayLargestSum.java
 │
 ├── BitManipulation/
 │   ├── NumberOf1Bits.java
@@ -258,13 +260,15 @@ leetcode-journey/
 | 50 | Minimum Number of Days to Make m Bouquets | Binary Search on Answer | Medium | ✅ |
 | 51 | Find the Smallest Divisor Given a Threshold | Binary Search on Answer | Medium | ✅ |
 | 51 | Capacity To Ship Packages Within D Days | Binary Search on Answer | Medium | ✅ |
+| 52 | Kth Missing Positive Number | Binary Search | Easy | ✅ |
+| 52 | Split Array Largest Sum | Binary Search on Answer, Greedy | Hard | ✅ |
 
 ## Stats
 
-* Problems Solved: **102**
-* Easy: **29**
+* Problems Solved: **104**
+* Easy: **30**
 * Medium: **55**
-* Hard: **18**
+* Hard: **19**
 
 ## Connect
 
