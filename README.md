@@ -110,7 +110,9 @@ leetcode-journey/
 │   ├── FindTheSmallestDivisorGivenAThreshold.java
 │   ├── CapacityToShipPackagesWithinDDays.java
 │   ├── KthMissingPositiveNumber.java
-│   └── SplitArrayLargestSum.java
+│   ├── SplitArrayLargestSum.java
+│   ├── SearchA2DMatrixII.java
+│   └── FindAPeakElementII.java
 │
 ├── BitManipulation/
 │   ├── NumberOf1Bits.java
@@ -262,13 +264,15 @@ leetcode-journey/
 | 51 | Capacity To Ship Packages Within D Days | Binary Search on Answer | Medium | ✅ |
 | 52 | Kth Missing Positive Number | Binary Search | Easy | ✅ |
 | 52 | Split Array Largest Sum | Binary Search on Answer, Greedy | Hard | ✅ |
+| 53 | Search a 2D Matrix II | Binary Search, Matrix | Medium | ✅ |
+| 53 | Find a Peak Element II | Binary Search, Matrix | Medium | ✅ |
 
 ## Stats
 
-* Problems Solved: **104**
-* Easy: **30**
-* Medium: **55**
-* Hard: **19**
+- Problems Solved: **106**
+- Easy: **30**
+- Medium: **57**
+- Hard: **19**
 
 ## Connect
 
