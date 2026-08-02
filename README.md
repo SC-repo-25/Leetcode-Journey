@@ -29,7 +29,9 @@ leetcode-journey/
 │   ├── IsSubsequence.java
 │   ├── ValidAnagram.java
 │   ├── GroupAnagrams.java
-│   └── RansomNote.java
+│   ├── RansomNote.java
+│   ├── RemoveOutermostParentheses.java
+│   └── ReverseWordsInAString.java
 │
 ├── HashMap/
 │   ├── SubarraySumEqualsK.java
@@ -266,12 +268,14 @@ leetcode-journey/
 | 52 | Split Array Largest Sum | Binary Search on Answer, Greedy | Hard | ✅ |
 | 53 | Search a 2D Matrix II | Binary Search, Matrix | Medium | ✅ |
 | 53 | Find a Peak Element II | Binary Search, Matrix | Medium | ✅ |
+| 54 | Remove Outermost Parentheses | Strings, Stack (Depth Counting) | Easy | ✅ |
+| 54 | Reverse Words in a String | Strings, Two Pointers | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **106**
-- Easy: **30**
-- Medium: **57**
+- Problems Solved: **108**
+- Easy: **31**
+- Medium: **58**
 - Hard: **19**
 
 ## Connect
