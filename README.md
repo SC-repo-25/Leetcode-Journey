@@ -31,7 +31,9 @@ leetcode-journey/
 │   ├── GroupAnagrams.java
 │   ├── RansomNote.java
 │   ├── RemoveOutermostParentheses.java
-│   └── ReverseWordsInAString.java
+│   ├── ReverseWordsInAString.java
+│   ├── LargestOddNumberInString.java
+│   └── LongestCommonPrefix.java
 │
 ├── HashMap/
 │   ├── SubarraySumEqualsK.java
@@ -270,11 +272,13 @@ leetcode-journey/
 | 53 | Find a Peak Element II | Binary Search, Matrix | Medium | ✅ |
 | 54 | Remove Outermost Parentheses | Strings, Stack (Depth Counting) | Easy | ✅ |
 | 54 | Reverse Words in a String | Strings, Two Pointers | Medium | ✅ |
+| 55 | Largest Odd Number in String | Strings, Greedy | Easy | ✅ |
+| 55 | Longest Common Prefix | Strings | Easy | ✅ |
 
 ## Stats
 
-- Problems Solved: **108**
-- Easy: **31**
+- Problems Solved: **110**
+- Easy: **33**
 - Medium: **58**
 - Hard: **19**
 
