@@ -33,7 +33,9 @@ leetcode-journey/
 │   ├── RemoveOutermostParentheses.java
 │   ├── ReverseWordsInAString.java
 │   ├── LargestOddNumberInString.java
-│   └── LongestCommonPrefix.java
+│   |── LongestCommonPrefix.java
+|   ├── IsomorphicStrings.java
+│   └── RotateString.java
 │
 ├── HashMap/
 │   ├── SubarraySumEqualsK.java
@@ -274,11 +276,13 @@ leetcode-journey/
 | 54 | Reverse Words in a String | Strings, Two Pointers | Medium | ✅ |
 | 55 | Largest Odd Number in String | Strings, Greedy | Easy | ✅ |
 | 55 | Longest Common Prefix | Strings | Easy | ✅ |
+| 56 | Isomorphic Strings | Strings, HashMap | Easy | ✅ |
+| 56 | Rotate String | Strings | Easy | ✅ |
 
 ## Stats
 
-- Problems Solved: **110**
-- Easy: **33**
+- Problems Solved: **112**
+- Easy: **35**
 - Medium: **58**
 - Hard: **19**
 
