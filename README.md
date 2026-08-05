@@ -33,10 +33,12 @@ leetcode-journey/
 │   ├── RemoveOutermostParentheses.java
 │   ├── ReverseWordsInAString.java
 │   ├── LargestOddNumberInString.java
-│   |── LongestCommonPrefix.java
-|   ├── IsomorphicStrings.java
-│   └── RotateString.java
-│
+│   ├── LongestCommonPrefix.java
+│   ├── IsomorphicStrings.java
+│   ├── RotateString.java
+│   ├── SortCharactersByFrequency.java
+│   └── MaximumNestingDepthOfTheParentheses.java
+|
 ├── HashMap/
 │   ├── SubarraySumEqualsK.java
 │   └── LRUCache.java
@@ -278,12 +280,14 @@ leetcode-journey/
 | 55 | Longest Common Prefix | Strings | Easy | ✅ |
 | 56 | Isomorphic Strings | Strings, HashMap | Easy | ✅ |
 | 56 | Rotate String | Strings | Easy | ✅ |
+| 57 | Sort Characters By Frequency | Strings, HashMap, Bucket Sort | Medium | ✅ |
+| 57 | Maximum Nesting Depth of the Parentheses | Strings, Stack (Depth Counting) | Easy | ✅ |
 
 ## Stats
 
-- Problems Solved: **112**
-- Easy: **35**
-- Medium: **58**
+- Problems Solved: **114**
+- Easy: **36**
+- Medium: **59**
 - Hard: **19**
 
 ## Connect
