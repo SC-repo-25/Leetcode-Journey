@@ -37,7 +37,9 @@ leetcode-journey/
 │   ├── IsomorphicStrings.java
 │   ├── RotateString.java
 │   ├── SortCharactersByFrequency.java
-│   └── MaximumNestingDepthOfTheParentheses.java
+│   ├── MaximumNestingDepthOfTheParentheses.java
+│   ├── RomanToInteger.java
+│   └── StringToIntegerAtoi.java
 |
 ├── HashMap/
 │   ├── SubarraySumEqualsK.java
@@ -282,12 +284,14 @@ leetcode-journey/
 | 56 | Rotate String | Strings | Easy | ✅ |
 | 57 | Sort Characters By Frequency | Strings, HashMap, Bucket Sort | Medium | ✅ |
 | 57 | Maximum Nesting Depth of the Parentheses | Strings, Stack (Depth Counting) | Easy | ✅ |
+| 58 | Roman to Integer | Strings, HashMap | Easy | ✅ |
+| 58 | String to Integer (atoi) | Strings, Parsing | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **114**
-- Easy: **36**
-- Medium: **59**
+- Problems Solved: **116**
+- Easy: **37**
+- Medium: **60**
 - Hard: **19**
 
 ## Connect
