@@ -39,7 +39,9 @@ leetcode-journey/
 │   ├── SortCharactersByFrequency.java
 │   ├── MaximumNestingDepthOfTheParentheses.java
 │   ├── RomanToInteger.java
-│   └── StringToIntegerAtoi.java
+│   ├── StringToIntegerAtoi.java
+│   ├── LongestPalindromicSubstring.java
+│   └── SumOfBeautyOfAllSubstrings.java
 |
 ├── HashMap/
 │   ├── SubarraySumEqualsK.java
@@ -286,12 +288,14 @@ leetcode-journey/
 | 57 | Maximum Nesting Depth of the Parentheses | Strings, Stack (Depth Counting) | Easy | ✅ |
 | 58 | Roman to Integer | Strings, HashMap | Easy | ✅ |
 | 58 | String to Integer (atoi) | Strings, Parsing | Medium | ✅ |
+| 59 | Longest Palindromic Substring | Strings, Two Pointers (Expand Around Center) | Medium | ✅ |
+| 59 | Sum of Beauty of All Substrings | Strings, Frequency Counting | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **116**
+- Problems Solved: **118**
 - Easy: **37**
-- Medium: **60**
+- Medium: **62**
 - Hard: **19**
 
 ## Connect
