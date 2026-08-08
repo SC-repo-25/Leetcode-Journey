@@ -70,7 +70,9 @@ leetcode-journey/
 │   ├── RemoveLinkedListElements.java
 │   ├── RemoveNthNodeFromEndOfList.java
 │   ├── MiddleOfTheLinkedList.java
-│   └── AddTwoNumbers.java
+│   ├── AddTwoNumbers.java
+│   ├── DeleteNodeInALinkedList.java
+│   └── LinkedListCycleII.java
 │
 ├── DFS/
 │   └── NumberOfIslands.java
@@ -290,12 +292,15 @@ leetcode-journey/
 | 58 | String to Integer (atoi) | Strings, Parsing | Medium | ✅ |
 | 59 | Longest Palindromic Substring | Strings, Two Pointers (Expand Around Center) | Medium | ✅ |
 | 59 | Sum of Beauty of All Substrings | Strings, Frequency Counting | Medium | ✅ |
+| 60 | Delete Node in a Linked List | Linked List | Easy | ✅ |
+| 60 | Linked List Cycle II | Linked List, Two Pointers (Floyd's Cycle Detection) | Medium | ✅ |
+
 
 ## Stats
 
-- Problems Solved: **118**
-- Easy: **37**
-- Medium: **62**
+- Problems Solved: **120**
+- Easy: **38**
+- Medium: **63**
 - Hard: **19**
 
 ## Connect
