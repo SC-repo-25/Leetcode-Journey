@@ -72,7 +72,9 @@ leetcode-journey/
 │   ├── MiddleOfTheLinkedList.java
 │   ├── AddTwoNumbers.java
 │   ├── DeleteNodeInALinkedList.java
-│   └── LinkedListCycleII.java
+│   ├── LinkedListCycleII.java
+│   ├── PalindromeLinkedList.java
+│   └── OddEvenLinkedList.java
 │
 ├── DFS/
 │   └── NumberOfIslands.java
@@ -294,13 +296,15 @@ leetcode-journey/
 | 59 | Sum of Beauty of All Substrings | Strings, Frequency Counting | Medium | ✅ |
 | 60 | Delete Node in a Linked List | Linked List | Easy | ✅ |
 | 60 | Linked List Cycle II | Linked List, Two Pointers (Floyd's Cycle Detection) | Medium | ✅ |
+| 61 | Palindrome Linked List | Linked List, Fast & Slow Pointers, Reversal | Easy | ✅ |
+| 61 | Odd Even Linked List | Linked List, Pointer Manipulation | Medium | ✅ |
 
 
 ## Stats
 
-- Problems Solved: **120**
-- Easy: **38**
-- Medium: **63**
+- Problems Solved: **122**
+- Easy: **39**
+- Medium: **64**
 - Hard: **19**
 
 ## Connect
