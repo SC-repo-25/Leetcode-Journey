@@ -73,8 +73,10 @@ leetcode-journey/
 │   ├── AddTwoNumbers.java
 │   ├── DeleteNodeInALinkedList.java
 │   ├── LinkedListCycleII.java
-│   ├── PalindromeLinkedList.java
-│   └── OddEvenLinkedList.java
+|   ├── PalindromeLinkedList.java
+|   ├── OddEvenLinkedList.java
+|   ├── IntersectionOfTwoLinkedLists.java
+|   └── ReverseNodesInKGroup.java
 │
 ├── DFS/
 │   └── NumberOfIslands.java
@@ -298,14 +300,15 @@ leetcode-journey/
 | 60 | Linked List Cycle II | Linked List, Two Pointers (Floyd's Cycle Detection) | Medium | ✅ |
 | 61 | Palindrome Linked List | Linked List, Fast & Slow Pointers, Reversal | Easy | ✅ |
 | 61 | Odd Even Linked List | Linked List, Pointer Manipulation | Medium | ✅ |
-
+| 62 | Intersection of Two Linked Lists | Linked List, Two Pointers, Pointer Manipulation | Easy | ✅ |
+| 62 | Reverse Nodes in k-Group | Linked List, Pointer Manipulation, Reversal | Hard | ✅ |
 
 ## Stats
 
-- Problems Solved: **122**
-- Easy: **39**
+- Problems Solved: **124**
+- Easy: **40**
 - Medium: **64**
-- Hard: **19**
+- Hard: **20**
 
 ## Connect
 
