@@ -76,8 +76,10 @@ leetcode-journey/
 |   ├── PalindromeLinkedList.java
 |   ├── OddEvenLinkedList.java
 |   ├── IntersectionOfTwoLinkedLists.java
-|   └── ReverseNodesInKGroup.java
-│
+|   ├── ReverseNodesInKGroup.java
+|   ├── RotateList.java
+|   └── CopyListWithRandomPointer.java
+|    
 ├── DFS/
 │   └── NumberOfIslands.java
 │
@@ -302,12 +304,14 @@ leetcode-journey/
 | 61 | Odd Even Linked List | Linked List, Pointer Manipulation | Medium | ✅ |
 | 62 | Intersection of Two Linked Lists | Linked List, Two Pointers, Pointer Manipulation | Easy | ✅ |
 | 62 | Reverse Nodes in k-Group | Linked List, Pointer Manipulation, Reversal | Hard | ✅ |
+| 63 | Rotate List | Linked List, Two Pointers, Pointer Manipulation | Medium | ✅ |
+| 63 | Copy List with Random Pointer | Linked List, HashMap, Pointer Manipulation | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **124**
+- Problems Solved: **126**
 - Easy: **40**
-- Medium: **64**
+- Medium: **66**
 - Hard: **20**
 
 ## Connect
