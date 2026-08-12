@@ -1,1 +1,28 @@
+class Solution {
+    private static final long MOD = 1_000_000_007L;
 
+    public int countGoodNumbers(long n) {
+        long evenPositions = (n + 1) / 2; // 5 choices: 0,2,4,6,8
+        long oddPositions = n / 2;        // 4 choices: 2,3,5,7
+
+        long ans = modPow(5, evenPositions);
+        ans = (ans * modPow(4, oddPositions)) % MOD;
+
+        return (int) ans;
+    }
+
+    private long modPow(long base, long exp) {
+        long result = 1;
+
+        while (exp > 0) {
+            if ((exp & 1) == 1) {
+                result = (result * base) % MOD;
+            }
+
+            base = (base * base) % MOD;
+            exp >>= 1;
+        }
+
+        return result;
+    }
+}
