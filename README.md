@@ -79,6 +79,10 @@ leetcode-journey/
 |   ├── ReverseNodesInKGroup.java
 |   ├── RotateList.java
 |   └── CopyListWithRandomPointer.java
+|
+├── Recursion/
+│   ├── CountGoodNumbers.java
+│   └── GenerateParentheses.java
 |    
 ├── DFS/
 │   └── NumberOfIslands.java
@@ -306,12 +310,14 @@ leetcode-journey/
 | 62 | Reverse Nodes in k-Group | Linked List, Pointer Manipulation, Reversal | Hard | ✅ |
 | 63 | Rotate List | Linked List, Two Pointers, Pointer Manipulation | Medium | ✅ |
 | 63 | Copy List with Random Pointer | Linked List, HashMap, Pointer Manipulation | Medium | ✅ |
+| 64 | Count Good Numbers | Recursion, Math, Modular Exponentiation, Fast Power | Medium | ✅ |
+| 64 | Generate Parentheses | Recursion, Backtracking | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **126**
+- Problems Solved: **128**
 - Easy: **40**
-- Medium: **66**
+- Medium: **68**
 - Hard: **20**
 
 ## Connect
