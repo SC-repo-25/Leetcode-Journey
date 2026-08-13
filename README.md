@@ -82,7 +82,9 @@ leetcode-journey/
 |
 ├── Recursion/
 │   ├── CountGoodNumbers.java
-│   └── GenerateParentheses.java
+│   ├── GenerateParentheses.java
+│   ├── CombinationSum.java
+│   └── CombinationSumII.java
 |    
 ├── DFS/
 │   └── NumberOfIslands.java
@@ -312,12 +314,14 @@ leetcode-journey/
 | 63 | Copy List with Random Pointer | Linked List, HashMap, Pointer Manipulation | Medium | ✅ |
 | 64 | Count Good Numbers | Recursion, Math, Modular Exponentiation, Fast Power | Medium | ✅ |
 | 64 | Generate Parentheses | Recursion, Backtracking | Medium | ✅ |
+| 65 | Combination Sum | Recursion, Backtracking | Medium | ✅ |
+| 65 | Combination Sum II | Recursion, Backtracking, Sorting |	Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **128**
+- Problems Solved: **130**
 - Easy: **40**
-- Medium: **68**
+- Medium: **70**
 - Hard: **20**
 
 ## Connect
