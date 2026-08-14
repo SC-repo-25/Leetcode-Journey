@@ -84,7 +84,9 @@ leetcode-journey/
 │   ├── CountGoodNumbers.java
 │   ├── GenerateParentheses.java
 │   ├── CombinationSum.java
-│   └── CombinationSumII.java
+│   ├── CombinationSumII.java
+│   ├── SubsetsII.java
+│   └── CombinationSumIII.java
 |    
 ├── DFS/
 │   └── NumberOfIslands.java
@@ -316,12 +318,14 @@ leetcode-journey/
 | 64 | Generate Parentheses | Recursion, Backtracking | Medium | ✅ |
 | 65 | Combination Sum | Recursion, Backtracking | Medium | ✅ |
 | 65 | Combination Sum II | Recursion, Backtracking, Sorting |	Medium | ✅ |
+| 66 | Subsets II | Recursion, Backtracking, Sorting | Medium | ✅ |
+| 66 | Combination Sum III | Recursion, Backtracking | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **130**
+- Problems Solved: **132**
 - Easy: **40**
-- Medium: **70**
+- Medium: **72**
 - Hard: **20**
 
 ## Connect
