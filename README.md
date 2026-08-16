@@ -86,7 +86,8 @@ leetcode-journey/
 │   ├── CombinationSum.java
 │   ├── CombinationSumII.java
 │   ├── SubsetsII.java
-│   └── CombinationSumIII.java
+│   ├── CombinationSumIII.java
+│   └── ExpressionAddOperators.java
 |    
 ├── DFS/
 │   └── NumberOfIslands.java
@@ -147,7 +148,8 @@ leetcode-journey/
 │   ├── CountingBits.java
 │   ├── ReverseBits.java
 │   ├── MissingNumber.java
-│   └── SumOfTwoIntegers.java
+│   ├── SumOfTwoIntegers.java
+│   └── PowerOfTwo.java
 │
 ├── Trie/
 │   ├── ImplementTriePrefixTree.java
@@ -320,13 +322,15 @@ leetcode-journey/
 | 65 | Combination Sum II | Recursion, Backtracking, Sorting |	Medium | ✅ |
 | 66 | Subsets II | Recursion, Backtracking, Sorting | Medium | ✅ |
 | 66 | Combination Sum III | Recursion, Backtracking | Medium | ✅ |
+| 67 | Expression Add Operators | Recursion, Backtracking | Hard | ✅ |
+| 67 | Power of Two | Bit Manipulation | Easy | ✅ |
 
 ## Stats
 
-- Problems Solved: **132**
-- Easy: **40**
+- Problems Solved: **134**
+- Easy: **41**
 - Medium: **72**
-- Hard: **20**
+- Hard: **21**
 
 ## Connect
 
