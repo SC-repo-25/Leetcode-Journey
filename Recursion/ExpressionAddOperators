@@ -1,1 +1,45 @@
+import java.util.*;
 
+class Solution {
+    public List<String> addOperators(String num, int target) {
+        List<String> ans = new ArrayList<>();
+        dfs(num, target, 0, 0, 0, "", ans);
+        return ans;
+    }
+
+    void dfs(String s, long target, int idx, long val, long prev,
+             String expr, List<String> ans) {
+
+        if (idx == s.length()) {
+            if (val == target)
+                ans.add(expr);
+            return;
+        }
+
+        for (int i = idx; i < s.length(); i++) {
+
+            // Avoid numbers with leading zero
+            if (i > idx && s.charAt(idx) == '0')
+                break;
+
+            long cur = Long.parseLong(s.substring(idx, i + 1));
+
+            if (idx == 0) {
+                dfs(s, target, i + 1, cur, cur,
+                    "" + cur, ans);
+            } else {
+                dfs(s, target, i + 1, val + cur, cur,
+                    expr + "+" + cur, ans);
+
+                dfs(s, target, i + 1, val - cur, -cur,
+                    expr + "-" + cur, ans);
+
+                // Undo previous value and apply multiplication
+                dfs(s, target, i + 1,
+                    val - prev + prev * cur,
+                    prev * cur,
+                    expr + "*" + cur, ans);
+            }
+        }
+    }
+}
