@@ -149,7 +149,9 @@ leetcode-journey/
 │   ├── ReverseBits.java
 │   ├── MissingNumber.java
 │   ├── SumOfTwoIntegers.java
-│   └── PowerOfTwo.java
+│   ├── PowerOfTwo.java
+│   ├── DivideTwoIntegers.java
+│   └── MinimumBitFlipsToConvertNumber.java
 │
 ├── Trie/
 │   ├── ImplementTriePrefixTree.java
@@ -324,12 +326,14 @@ leetcode-journey/
 | 66 | Combination Sum III | Recursion, Backtracking | Medium | ✅ |
 | 67 | Expression Add Operators | Recursion, Backtracking | Hard | ✅ |
 | 67 | Power of Two | Bit Manipulation | Easy | ✅ |
+| 68 | Divide Two Integers | Bit Manipulation | Medium | ✅ |
+| 68 | Minimum Bit Flips to Convert Number | Bit Manipulation | Easy | ✅ |
 
 ## Stats
 
-- Problems Solved: **134**
-- Easy: **41**
-- Medium: **72**
+- Problems Solved: **136**
+- Easy: **42**
+- Medium: **73**
 - Hard: **21**
 
 ## Connect
