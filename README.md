@@ -150,9 +150,11 @@ leetcode-journey/
 │   ├── MissingNumber.java
 │   ├── SumOfTwoIntegers.java
 │   ├── PowerOfTwo.java
-│   ├── DivideTwoIntegers.java
-│   └── MinimumBitFlipsToConvertNumber.java
-│
+|   ├── DivideTwoIntegers.java
+|   ├── MinimumBitFlipsToConvertNumber.java
+|   ├── Subsets.java
+|   └── CountPrimes.java
+│   
 ├── Trie/
 │   ├── ImplementTriePrefixTree.java
 │   ├── DesignAddAndSearchWordsDataStructure.java
@@ -328,12 +330,14 @@ leetcode-journey/
 | 67 | Power of Two | Bit Manipulation | Easy | ✅ |
 | 68 | Divide Two Integers | Bit Manipulation | Medium | ✅ |
 | 68 | Minimum Bit Flips to Convert Number | Bit Manipulation | Easy | ✅ |
+| 69 | Subsets | Bit Manipulation, Recursion, Backtracking | Medium | ✅ |
+| 69 | Count Primes | Bit Manipulation | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **136**
+- Problems Solved: **138**
 - Easy: **42**
-- Medium: **73**
+- Medium: **75**
 - Hard: **21**
 
 ## Connect
