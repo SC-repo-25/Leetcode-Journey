@@ -51,7 +51,9 @@ leetcode-journey/
 │   ├── ValidParentheses.java
 │   ├── MinStack.java
 │   ├── ImplementQueueUsingStacks.java
-│   └── LargestRectangleInHistogram.java
+|   ├── LargestRectangleInHistogram.java          
+|   ├── NextGreaterElementI.java               
+|   └── ImplementStackUsingQueues.java     
 │
 ├── Queue/
 │   └── SlidingWindowMaximum.java
@@ -332,11 +334,13 @@ leetcode-journey/
 | 68 | Minimum Bit Flips to Convert Number | Bit Manipulation | Easy | ✅ |
 | 69 | Subsets | Bit Manipulation, Recursion, Backtracking | Medium | ✅ |
 | 69 | Count Primes | Bit Manipulation | Medium | ✅ |
+| 70 | Implement Stack using Queues | Stack, Queue | Easy | ✅ |
+| 70 | Next Greater Element I | Stack, Monotonic Stack | Easy | ✅ |
 
 ## Stats
 
-- Problems Solved: **138**
-- Easy: **42**
+- Problems Solved: **140**
+- Easy: **44**
 - Medium: **75**
 - Hard: **21**
 
