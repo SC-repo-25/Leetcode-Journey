@@ -53,8 +53,10 @@ leetcode-journey/
 │   ├── ImplementQueueUsingStacks.java
 |   ├── LargestRectangleInHistogram.java          
 |   ├── NextGreaterElementI.java               
-|   └── ImplementStackUsingQueues.java     
-│
+|   ├── ImplementStackUsingQueues.java
+|   ├── NextGreaterElementII.java
+|   └── AsteroidCollision.java
+|
 ├── Queue/
 │   └── SlidingWindowMaximum.java
 │
@@ -336,12 +338,14 @@ leetcode-journey/
 | 69 | Count Primes | Bit Manipulation | Medium | ✅ |
 | 70 | Implement Stack using Queues | Stack, Queue | Easy | ✅ |
 | 70 | Next Greater Element I | Stack, Monotonic Stack | Easy | ✅ |
+| 71 | Asteroid Collision | Stack | Medium | ✅ |
+| 71 | Next Greater Element II | Stack, Monotonic Stack | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **140**
+- Problems Solved: **142**
 - Easy: **44**
-- Medium: **75**
+- Medium: **77**
 - Hard: **21**
 
 ## Connect
