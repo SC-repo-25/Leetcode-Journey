@@ -55,7 +55,9 @@ leetcode-journey/
 |   ├── NextGreaterElementI.java               
 |   ├── ImplementStackUsingQueues.java
 |   ├── NextGreaterElementII.java
-|   └── AsteroidCollision.java
+|   ├── AsteroidCollision.java
+|   ├── SumOfSubarrayRanges.java
+|   └── RemoveKDigits.java
 |
 ├── Queue/
 │   └── SlidingWindowMaximum.java
@@ -340,12 +342,15 @@ leetcode-journey/
 | 70 | Next Greater Element I | Stack, Monotonic Stack | Easy | ✅ |
 | 71 | Asteroid Collision | Stack | Medium | ✅ |
 | 71 | Next Greater Element II | Stack, Monotonic Stack | Medium | ✅ |
+| 72 | Sum of Subarray Ranges | Stack, Monotonic Stack | Medium | ✅ |
+| 72 | Remove K Digits | Stack, Monotonic Stack | Medium | ✅ |
+
 
 ## Stats
 
-- Problems Solved: **142**
+- Problems Solved: **144**
 - Easy: **44**
-- Medium: **77**
+- Medium: **79**
 - Hard: **21**
 
 ## Connect
