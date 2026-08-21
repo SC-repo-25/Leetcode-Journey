@@ -1,1 +1,27 @@
+class Solution {
+    public String removeKdigits(String num, int k) {
+        if (k == num.length()) return "0";
 
+        char[] st = new char[num.length()];
+        int top = 0;
+
+        for (char c : num.toCharArray()) {
+            while (top > 0 && k > 0 && st[top - 1] > c) {
+                top--;
+                k--;
+            }
+            st[top++] = c;
+        }
+
+        // Remove remaining digits from the end
+        top -= k;
+
+        // Skip leading zeros
+        int i = 0;
+        while (i < top && st[i] == '0') {
+            i++;
+        }
+
+        return i == top ? "0" : new String(st, i, top - i);
+    }
+}
