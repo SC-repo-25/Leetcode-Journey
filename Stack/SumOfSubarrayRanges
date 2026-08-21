@@ -1,1 +1,33 @@
+class Solution {
+    public long subArrayRanges(int[] nums) {
+        int n = nums.length;
+        long ans = 0;
 
+        // Contribution as maximum
+        int[] st = new int[n];
+        int top = -1;
+
+        for (int i = 0; i <= n; i++) {
+            while (top >= 0 && (i == n || nums[st[top]] <= nums[i])) {
+                int j = st[top--];
+                int left = top >= 0 ? st[top] : -1;
+                ans += (long) nums[j] * (j - left) * (i - j);
+            }
+            if (i < n) st[++top] = i;
+        }
+
+        // Contribution as minimum
+        top = -1;
+
+        for (int i = 0; i <= n; i++) {
+            while (top >= 0 && (i == n || nums[st[top]] >= nums[i])) {
+                int j = st[top--];
+                int left = top >= 0 ? st[top] : -1;
+                ans -= (long) nums[j] * (j - left) * (i - j);
+            }
+            if (i < n) st[++top] = i;
+        }
+
+        return ans;
+    }
+}
