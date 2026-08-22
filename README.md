@@ -51,13 +51,15 @@ leetcode-journey/
 │   ├── ValidParentheses.java
 │   ├── MinStack.java
 │   ├── ImplementQueueUsingStacks.java
-|   ├── LargestRectangleInHistogram.java          
-|   ├── NextGreaterElementI.java               
-|   ├── ImplementStackUsingQueues.java
-|   ├── NextGreaterElementII.java
-|   ├── AsteroidCollision.java
-|   ├── SumOfSubarrayRanges.java
-|   └── RemoveKDigits.java
+│   ├── LargestRectangleInHistogram.java
+│   ├── MaximalRectangle.java
+│   ├── NextGreaterElementI.java
+│   ├── ImplementStackUsingQueues.java
+│   ├── NextGreaterElementII.java
+│   ├── OnlineStockSpan.java
+│   ├── AsteroidCollision.java
+│   ├── SumOfSubarrayRanges.java
+│   └── RemoveKDigits.java
 |
 ├── Queue/
 │   └── SlidingWindowMaximum.java
@@ -344,14 +346,16 @@ leetcode-journey/
 | 71 | Next Greater Element II | Stack, Monotonic Stack | Medium | ✅ |
 | 72 | Sum of Subarray Ranges | Stack, Monotonic Stack | Medium | ✅ |
 | 72 | Remove K Digits | Stack, Monotonic Stack | Medium | ✅ |
+| 73 | Maximal Rectangle | Stack, Monotonic Stack | Hard | ✅ |
+| 73 | Online Stock Span | Stack, Monotonic Stack | Medium | ✅ |
 
 
 ## Stats
 
-- Problems Solved: **144**
+- Problems Solved: **146**
 - Easy: **44**
-- Medium: **79**
-- Hard: **21**
+- Medium: **80**
+- Hard: **22**
 
 ## Connect
 
