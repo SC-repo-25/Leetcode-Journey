@@ -59,7 +59,8 @@ leetcode-journey/
 │   ├── OnlineStockSpan.java
 │   ├── AsteroidCollision.java
 │   ├── SumOfSubarrayRanges.java
-│   └── RemoveKDigits.java
+│   ├── RemoveKDigits.java
+|   └── LFUCache.java
 |
 ├── Queue/
 │   └── SlidingWindowMaximum.java
@@ -113,7 +114,8 @@ leetcode-journey/
 ├── SlidingWindow/
 │   ├── LongestSubstringWithoutRepeatingCharacters.java
 │   ├── FindAllAnagramsInAString.java
-│   └── MinimumWindowSubstring.java
+│   ├── MinimumWindowSubstring.java
+|   └── MaxConsecutiveOnesIII.java
 │
 ├── DynamicProgramming/
 │   ├── UniquePaths.java
@@ -348,14 +350,15 @@ leetcode-journey/
 | 72 | Remove K Digits | Stack, Monotonic Stack | Medium | ✅ |
 | 73 | Maximal Rectangle | Stack, Monotonic Stack | Hard | ✅ |
 | 73 | Online Stock Span | Stack, Monotonic Stack | Medium | ✅ |
-
+| 74 | LFU Cache | Stack, Monotonic Stack | Hard | ✅ |
+| 74 | Max Consecutive Ones III | Sliding Window | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **146**
+- Problems Solved: **148**
 - Easy: **44**
-- Medium: **80**
-- Hard: **22**
+- Medium: **81**
+- Hard: **23**
 
 ## Connect
 
