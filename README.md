@@ -115,7 +115,9 @@ leetcode-journey/
 │   ├── LongestSubstringWithoutRepeatingCharacters.java
 │   ├── FindAllAnagramsInAString.java
 │   ├── MinimumWindowSubstring.java
-|   └── MaxConsecutiveOnesIII.java
+|   ├── MaxConsecutiveOnesIII.java
+|   ├── FruitIntoBaskets.java
+│   └──LongestRepeatingCharacterReplacement.java
 │
 ├── DynamicProgramming/
 │   ├── UniquePaths.java
@@ -352,12 +354,14 @@ leetcode-journey/
 | 73 | Online Stock Span | Stack, Monotonic Stack | Medium | ✅ |
 | 74 | LFU Cache | Stack, Monotonic Stack | Hard | ✅ |
 | 74 | Max Consecutive Ones III | Sliding Window | Medium | ✅ |
+| 75 | Fruit Into Baskets | Sliding Window | Medium | ✅ |
+| 75 | Longest Repeating Character Replacement | Sliding Window | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **148**
+- Problems Solved: **150**
 - Easy: **44**
-- Medium: **81**
+- Medium: **83**
 - Hard: **23**
 
 ## Connect
