@@ -1,4 +1,4 @@
-# LeetCode Journey 🚀
+# LeetCode Journey 
 
 Documenting my Data Structures & Algorithms journey through consistent problem solving.
 
