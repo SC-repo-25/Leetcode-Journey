@@ -117,7 +117,9 @@ leetcode-journey/
 │   ├── MinimumWindowSubstring.java
 |   ├── MaxConsecutiveOnesIII.java
 |   ├── FruitIntoBaskets.java
-│   └──LongestRepeatingCharacterReplacement.java
+│   ├── LongestRepeatingCharacterReplacement.java
+│   ├── CountNumberOfNiceSubarrays.java
+│   └── BinarySubarraysWithSum.java
 │
 ├── DynamicProgramming/
 │   ├── UniquePaths.java
@@ -356,12 +358,16 @@ leetcode-journey/
 | 74 | Max Consecutive Ones III | Sliding Window | Medium | ✅ |
 | 75 | Fruit Into Baskets | Sliding Window | Medium | ✅ |
 | 75 | Longest Repeating Character Replacement | Sliding Window | Medium | ✅ |
+| 76 | Binary Subarrays With Sum | Sliding Window | Medium | ✅ |
+| 76 | Count Number of Nice Subarrays | Sliding Window | Medium | ✅ |
+
+
 
 ## Stats
 
-- Problems Solved: **150**
+- Problems Solved: **152**
 - Easy: **44**
-- Medium: **83**
+- Medium: **85**
 - Hard: **23**
 
 ## Connect
