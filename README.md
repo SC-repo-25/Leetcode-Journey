@@ -119,7 +119,9 @@ leetcode-journey/
 |   ├── FruitIntoBaskets.java
 │   ├── LongestRepeatingCharacterReplacement.java
 │   ├── CountNumberOfNiceSubarrays.java
-│   └── BinarySubarraysWithSum.java
+│   ├── BinarySubarraysWithSum.java
+│   ├── NumberofSubstringsContainingAllThreeCharacters.java
+│   └── MaximumPointsYouCanObtainfromCards.java
 │
 ├── DynamicProgramming/
 │   ├── UniquePaths.java
@@ -360,14 +362,14 @@ leetcode-journey/
 | 75 | Longest Repeating Character Replacement | Sliding Window | Medium | ✅ |
 | 76 | Binary Subarrays With Sum | Sliding Window | Medium | ✅ |
 | 76 | Count Number of Nice Subarrays | Sliding Window | Medium | ✅ |
-
-
+| 77 | Number of Substrings Containing All Three Characters | Sliding Window | Medium | ✅ |
+| 77 | Maximum Points You Can Obtain from Cards | Sliding Window | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **152**
+- Problems Solved: **154**
 - Easy: **44**
-- Medium: **85**
+- Medium: **87**
 - Hard: **23**
 
 ## Connect
