@@ -71,6 +71,7 @@ leetcode-journey/
 │   ├── MergeKSortedLists.java
 │   ├── DesignTwitter.java
 │   └── TaskScheduler.java
+│   └── HandOfStraights.java
 │
 ├── LinkedList/
 │   ├── MergeTwoSortedLists.java
@@ -121,7 +122,8 @@ leetcode-journey/
 │   ├── CountNumberOfNiceSubarrays.java
 │   ├── BinarySubarraysWithSum.java
 │   ├── NumberofSubstringsContainingAllThreeCharacters.java
-│   └── MaximumPointsYouCanObtainfromCards.java
+│   ├── MaximumPointsYouCanObtainfromCards.java
+│   └── SubarraysWithKDifferentIntegers.java
 │
 ├── DynamicProgramming/
 │   ├── UniquePaths.java
@@ -364,13 +366,15 @@ leetcode-journey/
 | 76 | Count Number of Nice Subarrays | Sliding Window | Medium | ✅ |
 | 77 | Number of Substrings Containing All Three Characters | Sliding Window | Medium | ✅ |
 | 77 | Maximum Points You Can Obtain from Cards | Sliding Window | Medium | ✅ |
+| 78 | Subarrays With K Different Integers | Sliding Window | Hard | ✅ |
+| 78 | Hand Of Straights | Heap | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **154**
+- Problems Solved: **156**
 - Easy: **44**
-- Medium: **87**
-- Hard: **23**
+- Medium: **88**
+- Hard: **24**
 
 ## Connect
 
