@@ -70,8 +70,10 @@ leetcode-journey/
 │   ├── KthLargestElementInAnArray.java
 │   ├── MergeKSortedLists.java
 │   ├── DesignTwitter.java
-│   └── TaskScheduler.java
-│   └── HandOfStraights.java
+│   ├──TaskScheduler.java
+│   ├── HandOfStraights.java
+│   ├── KthLargestElementInAStream.java
+│   └── FindMedianFromDataStream.java
 │
 ├── LinkedList/
 │   ├── MergeTwoSortedLists.java
@@ -368,13 +370,15 @@ leetcode-journey/
 | 77 | Maximum Points You Can Obtain from Cards | Sliding Window | Medium | ✅ |
 | 78 | Subarrays With K Different Integers | Sliding Window | Hard | ✅ |
 | 78 | Hand Of Straights | Heap | Medium | ✅ |
+| 79 | Kth Largest Element In A Stream | Heap | Easy | ✅ |
+| 79 | Find Median From Data Stream | Heap | Hard | ✅ |
 
 ## Stats
 
-- Problems Solved: **156**
-- Easy: **44**
+- Problems Solved: **158**
+- Easy: **45**
 - Medium: **88**
-- Hard: **24**
+- Hard: **25**
 
 ## Connect
 
