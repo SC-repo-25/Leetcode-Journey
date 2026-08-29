@@ -186,6 +186,10 @@ leetcode-journey/
 │   ├── PacificAtlanticWaterFlow.java
 │   └── WordLadder.java
 │
+├── GreedyAlgorithms/
+│   ├── AssignCookies.java
+│   └── LemonadeChange.java
+│   
 ├── Backtracking/
 │   ├── NQueens.java
 │   └── SudokuSolver.java
@@ -372,11 +376,13 @@ leetcode-journey/
 | 78 | Hand Of Straights | Heap | Medium | ✅ |
 | 79 | Kth Largest Element In A Stream | Heap | Easy | ✅ |
 | 79 | Find Median From Data Stream | Heap | Hard | ✅ |
+| 80 | Assign Cookies | Greedy Algorithms | Easy | ✅ |
+| 80 | Lemonade Change | Greedy Algorithms | Easy | ✅ |
 
 ## Stats
 
-- Problems Solved: **158**
-- Easy: **45**
+- Problems Solved: **160**
+- Easy: **47**
 - Medium: **88**
 - Hard: **25**
 
