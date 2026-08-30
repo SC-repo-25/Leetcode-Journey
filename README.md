@@ -188,7 +188,9 @@ leetcode-journey/
 │
 ├── GreedyAlgorithms/
 │   ├── AssignCookies.java
-│   └── LemonadeChange.java
+│   ├── LemonadeChange.java
+│   ├── ValidParenthesisString.java
+│   └── JumpGameII.java
 │   
 ├── Backtracking/
 │   ├── NQueens.java
@@ -378,12 +380,14 @@ leetcode-journey/
 | 79 | Find Median From Data Stream | Heap | Hard | ✅ |
 | 80 | Assign Cookies | Greedy Algorithms | Easy | ✅ |
 | 80 | Lemonade Change | Greedy Algorithms | Easy | ✅ |
+| 81 | Valid Parenthesis String | Greedy Algorithms | Medium | ✅ |
+| 81 | Jump Game II | Greedy Algorithms | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **160**
+- Problems Solved: **162**
 - Easy: **47**
-- Medium: **88**
+- Medium: **90**
 - Hard: **25**
 
 ## Connect
