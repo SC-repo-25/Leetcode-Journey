@@ -190,7 +190,8 @@ leetcode-journey/
 │   ├── AssignCookies.java
 │   ├── LemonadeChange.java
 │   ├── ValidParenthesisString.java
-│   └── JumpGameII.java
+│   ├── JumpGameII.java
+│   └── Candy.java
 │   
 ├── Backtracking/
 │   ├── NQueens.java
@@ -214,7 +215,8 @@ leetcode-journey/
     ├── CountOfSmallerNumbersAfterSelf.java
     ├── AverageOfLevelsInBinaryTree.java
     ├── BinaryTreeMaximumPathSum.java
-    └── BinaryTreeRightSideView.java
+    ├── BinaryTreeRightSideView.java
+    └── BinaryTreePreorderTraversal.java
 
 ## Progress
 
@@ -382,13 +384,15 @@ leetcode-journey/
 | 80 | Lemonade Change | Greedy Algorithms | Easy | ✅ |
 | 81 | Valid Parenthesis String | Greedy Algorithms | Medium | ✅ |
 | 81 | Jump Game II | Greedy Algorithms | Medium | ✅ |
+| 82 | Candy | Greedy Algorithms | Hard | ✅ |
+| 82 | Binary Tree Preorder Traversal | Trees | Easy | ✅ |
 
 ## Stats
 
-- Problems Solved: **162**
-- Easy: **47**
+- Problems Solved: **164**
+- Easy: **48**
 - Medium: **90**
-- Hard: **25**
+- Hard: **26**
 
 ## Connect
 
