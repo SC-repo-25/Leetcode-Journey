@@ -218,7 +218,7 @@ leetcode-journey/
     ├── BinaryTreeRightSideView.java
     ├── BinaryTreePreorderTraversal.java
     ├── BinaryTreeInorderTraversal.java
-    └── BinaryTreePostorderTraversal.java
+    └── BinaryTreePostorderTraversal.java 
 
 ## Progress
 
