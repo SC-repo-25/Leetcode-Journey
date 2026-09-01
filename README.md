@@ -216,7 +216,9 @@ leetcode-journey/
     ├── AverageOfLevelsInBinaryTree.java
     ├── BinaryTreeMaximumPathSum.java
     ├── BinaryTreeRightSideView.java
-    └── BinaryTreePreorderTraversal.java
+    ├── BinaryTreePreorderTraversal.java
+    ├── BinaryTreeInorderTraversal.java
+    └── BinaryTreePostorderTraversal.java
 
 ## Progress
 
@@ -386,11 +388,13 @@ leetcode-journey/
 | 81 | Jump Game II | Greedy Algorithms | Medium | ✅ |
 | 82 | Candy | Greedy Algorithms | Hard | ✅ |
 | 82 | Binary Tree Preorder Traversal | Trees | Easy | ✅ |
+| 83 | Binary Tree Inorder Traversal | Trees | Easy | ✅ |
+| 83 | Binary Tree Postorder Traversal | Trees | Easy | ✅ |
 
 ## Stats
 
-- Problems Solved: **164**
-- Easy: **48**
+- Problems Solved: **166**
+- Easy: **50**
 - Medium: **90**
 - Hard: **26**
 
