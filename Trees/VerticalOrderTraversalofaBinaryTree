@@ -1,1 +1,49 @@
+class Solution {
+    static class Node {
+        TreeNode node;
+        int row, col;
 
+        Node(TreeNode node, int row, int col) {
+            this.node = node;
+            this.row = row;
+            this.col = col;
+        }
+    }
+
+    public List<List<Integer>> verticalTraversal(TreeNode root) {
+        List<List<Integer>> ans = new ArrayList<>();
+        if (root == null) return ans;
+
+        TreeMap<Integer, List<int[]>> map = new TreeMap<>();
+        Queue<Node> q = new LinkedList<>();
+        q.offer(new Node(root, 0, 0));
+
+        while (!q.isEmpty()) {
+            Node cur = q.poll();
+
+            map.computeIfAbsent(cur.col, k -> new ArrayList<>())
+               .add(new int[]{cur.row, cur.node.val});
+
+            if (cur.node.left != null)
+                q.offer(new Node(cur.node.left, cur.row + 1, cur.col - 1));
+
+            if (cur.node.right != null)
+                q.offer(new Node(cur.node.right, cur.row + 1, cur.col + 1));
+        }
+
+        for (List<int[]> list : map.values()) {
+            list.sort((a, b) -> {
+                if (a[0] != b[0]) return Integer.compare(a[0], b[0]);
+                return Integer.compare(a[1], b[1]);
+            });
+
+            List<Integer> column = new ArrayList<>();
+            for (int[] x : list)
+                column.add(x[1]);
+
+            ans.add(column);
+        }
+
+        return ans;
+    }
+}
