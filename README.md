@@ -218,7 +218,10 @@ leetcode-journey/
     ├── BinaryTreeRightSideView.java
     ├── BinaryTreePreorderTraversal.java
     ├── BinaryTreeInorderTraversal.java
-    └── BinaryTreePostorderTraversal.java 
+    ├── BinaryTreePostorderTraversal.java 
+    ├── BinaryTreeZigzagLevelOrderTraversal.java 
+    └── VerticalOrderTraversalofaBinaryTree.java
+    
 
 ## Progress
 
@@ -390,13 +393,15 @@ leetcode-journey/
 | 82 | Binary Tree Preorder Traversal | Trees | Easy | ✅ |
 | 83 | Binary Tree Inorder Traversal | Trees | Easy | ✅ |
 | 83 | Binary Tree Postorder Traversal | Trees | Easy | ✅ |
+| 84 | Binary Tree Zigzag Level Order Traversal | Trees | Medium | ✅ |
+| 84 | Vertical Order Traversal of a Binary Tree | Trees | Hard | ✅ |
 
 ## Stats
 
-- Problems Solved: **166**
+- Problems Solved: **168**
 - Easy: **50**
-- Medium: **90**
-- Hard: **26**
+- Medium: **91**
+- Hard: **27**
 
 ## Connect
 
