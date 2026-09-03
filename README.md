@@ -220,7 +220,9 @@ leetcode-journey/
     ├── BinaryTreeInorderTraversal.java
     ├── BinaryTreePostorderTraversal.java 
     ├── BinaryTreeZigzagLevelOrderTraversal.java 
-    └── VerticalOrderTraversalofaBinaryTree.java
+    ├── VerticalOrderTraversalofaBinaryTree.java
+    ├── LowestCommonAncestorofaBinaryTree.java
+    └── MaximumWidthofBinaryTree.java
     
 
 ## Progress
@@ -395,12 +397,14 @@ leetcode-journey/
 | 83 | Binary Tree Postorder Traversal | Trees | Easy | ✅ |
 | 84 | Binary Tree Zigzag Level Order Traversal | Trees | Medium | ✅ |
 | 84 | Vertical Order Traversal of a Binary Tree | Trees | Hard | ✅ |
+| 85 | Lowest Common Ancestor of a Binary Tree | Trees | Medium | ✅ |
+| 85 | Maximum Width of Binary Tree | Trees | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **168**
+- Problems Solved: **170**
 - Easy: **50**
-- Medium: **91**
+- Medium: **93**
 - Hard: **27**
 
 ## Connect
