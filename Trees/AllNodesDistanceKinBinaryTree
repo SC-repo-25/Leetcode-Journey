@@ -1,1 +1,54 @@
+class Solution {
+    public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
+        Map<TreeNode, TreeNode> parent = new HashMap<>();
+        buildParent(root, null, parent);
 
+        Queue<TreeNode> q = new LinkedList<>();
+        Set<TreeNode> visited = new HashSet<>();
+
+        q.offer(target);
+        visited.add(target);
+
+        int distance = 0;
+
+        while (!q.isEmpty()) {
+            if (distance == k) {
+                List<Integer> ans = new ArrayList<>();
+                for (TreeNode node : q) {
+                    ans.add(node.val);
+                }
+                return ans;
+            }
+
+            int size = q.size();
+
+            while (size-- > 0) {
+                TreeNode node = q.poll();
+
+                if (node.left != null && visited.add(node.left))
+                    q.offer(node.left);
+
+                if (node.right != null && visited.add(node.right))
+                    q.offer(node.right);
+
+                TreeNode p = parent.get(node);
+                if (p != null && visited.add(p))
+                    q.offer(p);
+            }
+
+            distance++;
+        }
+
+        return new ArrayList<>();
+    }
+
+    private void buildParent(TreeNode node, TreeNode par,
+                             Map<TreeNode, TreeNode> parent) {
+        if (node == null) return;
+
+        parent.put(node, par);
+
+        buildParent(node.left, node, parent);
+        buildParent(node.right, node, parent);
+    }
+}
