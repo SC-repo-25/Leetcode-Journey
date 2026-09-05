@@ -162,7 +162,7 @@ leetcode-journey/
 │   ├── SplitArrayLargestSum.java
 │   ├── SearchA2DMatrixII.java
 │   └── FindAPeakElementII.java
-│
+│   
 ├── BitManipulation/
 │   ├── NumberOf1Bits.java
 │   ├── CountingBits.java
@@ -224,9 +224,9 @@ leetcode-journey/
     ├── LowestCommonAncestorofaBinaryTree.java
     ├── MaximumWidthofBinaryTree.java
     ├── AllNodesDistanceKinBinaryTree.java
-    └── CountCompleteTreeNodes.java
-    
-    
+    ├── CountCompleteTreeNodes.java
+    ├── ConstructBinaryTreefromInorderandPostorder.java
+    └── SearchinaBinarySearchTree.java
 
 ## Progress
 
@@ -404,12 +404,14 @@ leetcode-journey/
 | 85 | Maximum Width of Binary Tree | Trees | Medium | ✅ |
 | 86 | All Nodes Distance K in Binary Tree | Trees | Medium | ✅ |
 | 86 | Count Complete Tree Nodes | Trees | Medium | ✅ |
+| 87 | Construct Binary Tree from Inorder and Postorder | Trees | Medium | ✅ |
+| 87 | Search in a Binary Search Tree | Trees | Easy | ✅ |
 
 ## Stats
 
-- Problems Solved: **172**
-- Easy: **50**
-- Medium: **95**
+- Problems Solved: **174**
+- Easy: **51**
+- Medium: **96**
 - Hard: **27**
 
 ## Connect
