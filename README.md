@@ -226,7 +226,9 @@ leetcode-journey/
     ├── AllNodesDistanceKinBinaryTree.java
     ├── CountCompleteTreeNodes.java
     ├── ConstructBinaryTreefromInorderandPostorder.java
-    └── SearchinaBinarySearchTree.java
+    ├── SearchinaBinarySearchTree.java
+    ├── ConstructBSTfromPreorderTraversal.java
+    └── BinarySearchTreeIterator.java
 
 ## Progress
 
@@ -406,12 +408,14 @@ leetcode-journey/
 | 86 | Count Complete Tree Nodes | Trees | Medium | ✅ |
 | 87 | Construct Binary Tree from Inorder and Postorder | Trees | Medium | ✅ |
 | 87 | Search in a Binary Search Tree | Trees | Easy | ✅ |
+| 88 | Construct BST from Preorder Traversal | Trees | Medium | ✅ |
+| 88 | Binary Search Tree Iterator | Trees | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **174**
+- Problems Solved: **176**
 - Easy: **51**
-- Medium: **96**
+- Medium: **98**
 - Hard: **27**
 
 ## Connect
