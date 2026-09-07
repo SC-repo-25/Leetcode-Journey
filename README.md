@@ -228,7 +228,9 @@ leetcode-journey/
     ├── ConstructBinaryTreefromInorderandPostorder.java
     ├── SearchinaBinarySearchTree.java
     ├── ConstructBSTfromPreorderTraversal.java
-    └── BinarySearchTreeIterator.java
+    ├── BinarySearchTreeIterator.java
+    ├── RecoverBinarySearchTree.java
+    └── MaximumSumBSTinBinaryTree.java
 
 ## Progress
 
@@ -410,13 +412,15 @@ leetcode-journey/
 | 87 | Search in a Binary Search Tree | Trees | Easy | ✅ |
 | 88 | Construct BST from Preorder Traversal | Trees | Medium | ✅ |
 | 88 | Binary Search Tree Iterator | Trees | Medium | ✅ |
+| 89 | Recover Binary Search Tree | Trees | Medium | ✅ |
+| 89 | Maximum Sum BST in Binary Tree | Trees | Hard | ✅ |
 
 ## Stats
 
-- Problems Solved: **176**
+- Problems Solved: **178**
 - Easy: **51**
-- Medium: **98**
-- Hard: **27**
+- Medium: **99**
+- Hard: **28**
 
 ## Connect
 
