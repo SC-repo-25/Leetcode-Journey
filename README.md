@@ -102,7 +102,9 @@ leetcode-journey/
 │   └── ExpressionAddOperators.java
 |    
 ├── DFS/
-│   └── NumberOfIslands.java
+│   ├── NumberOfIslands.java
+│   ├── NumberofProvinces.java
+│   └── FloodFill.java
 │
 ├── BFS/
 │   └── RottingOranges.java
@@ -414,12 +416,14 @@ leetcode-journey/
 | 88 | Binary Search Tree Iterator | Trees | Medium | ✅ |
 | 89 | Recover Binary Search Tree | Trees | Medium | ✅ |
 | 89 | Maximum Sum BST in Binary Tree | Trees | Hard | ✅ |
+| 90 | Number of Provinces | Graph, DFS | Medium | ✅ |
+| 90 | Flood Fill | Graph, DFS | Easy | ✅ |
 
 ## Stats
 
-- Problems Solved: **178**
-- Easy: **51**
-- Medium: **99**
+- Problems Solved: **180**
+- Easy: **52**
+- Medium: **100**
 - Hard: **28**
 
 ## Connect
