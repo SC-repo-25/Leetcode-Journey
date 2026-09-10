@@ -104,8 +104,10 @@ leetcode-journey/
 ├── DFS/
 │   ├── NumberOfIslands.java
 │   ├── NumberofProvinces.java
-│   └── FloodFill.java
-│
+│   ├── FloodFill.java 
+│   ├── NumberofEnclaves.java
+│   └── IsGraphBipartite?.java
+│   
 ├── BFS/
 │   └── RottingOranges.java
 │   ├── 01Matrix.java
@@ -422,12 +424,15 @@ leetcode-journey/
 | 90 | Flood Fill | Graph, DFS | Easy | ✅ |
 | 91 | 01 Matrix | Graph, BFS | Medium | ✅ |
 | 91 | Surrounded Regions | Graph, BFS | Medium | ✅ |
+| 92 | Number of Enclaves | Graph, DFS | Medium | ✅ |
+| 92 | Is Graph Bipartite? | Graph, DFS | Medium | ✅ |
+
 
 ## Stats
 
-- Problems Solved: **182**
+- Problems Solved: **184**
 - Easy: **52**
-- Medium: **102**
+- Medium: **104**
 - Hard: **28**
 
 ## Connect
