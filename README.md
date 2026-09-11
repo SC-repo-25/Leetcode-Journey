@@ -109,9 +109,11 @@ leetcode-journey/
 │   └── IsGraphBipartite?.java
 │   
 ├── BFS/
-│   └── RottingOranges.java
+│   ├── RottingOranges.java
 │   ├── 01Matrix.java
-│   └── SurroundedRegions.java
+│   ├── SurroundedRegions.java
+│   ├── CourseScheduleII.java
+│   └── FindEventualSafeStates.java
 │
 ├── TwoPointers/
 │   ├── 3Sum.java
@@ -426,13 +428,15 @@ leetcode-journey/
 | 91 | Surrounded Regions | Graph, BFS | Medium | ✅ |
 | 92 | Number of Enclaves | Graph, DFS | Medium | ✅ |
 | 92 | Is Graph Bipartite? | Graph, DFS | Medium | ✅ |
+| 93 | Course Schedule II | Graph, BFS | Medium | ✅ |
+| 93 | Find Eventual Safe States | Graph, BFS | Medium | ✅ |
 
 
 ## Stats
 
-- Problems Solved: **184**
+- Problems Solved: **186**
 - Easy: **52**
-- Medium: **104**
+- Medium: **106**
 - Hard: **28**
 
 ## Connect
