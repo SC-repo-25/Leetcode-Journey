@@ -192,7 +192,9 @@ leetcode-journey/
 │   ├── CloneGraph.java
 │   ├── CourseSchedule.java
 │   ├── PacificAtlanticWaterFlow.java
-│   └── WordLadder.java
+│   ├── WordLadder.java
+│   ├── ShortestPathinBinaryMatrix.java
+│   └── PathWithMinimumEffort.java
 │
 ├── GreedyAlgorithms/
 │   ├── AssignCookies.java
@@ -430,13 +432,15 @@ leetcode-journey/
 | 92 | Is Graph Bipartite? | Graph, DFS | Medium | ✅ |
 | 93 | Course Schedule II | Graph, BFS | Medium | ✅ |
 | 93 | Find Eventual Safe States | Graph, BFS | Medium | ✅ |
+| 94 | Shortest Path in Binary Matrix | Graph | Medium | ✅ |
+| 94 | Path With Minimum Effort | Graph | Medium | ✅ |
 
 
 ## Stats
 
-- Problems Solved: **186**
+- Problems Solved: **188**
 - Easy: **52**
-- Medium: **106**
+- Medium: **108**
 - Hard: **28**
 
 ## Connect
