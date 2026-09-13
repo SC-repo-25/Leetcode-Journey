@@ -194,7 +194,9 @@ leetcode-journey/
 │   ├── PacificAtlanticWaterFlow.java
 │   ├── WordLadder.java
 │   ├── ShortestPathinBinaryMatrix.java
-│   └── PathWithMinimumEffort.java
+│   ├── PathWithMinimumEffort.java
+│   ├── CheapestFlightsWithinKStops.java
+│   └── NetworkDelayTime.java
 │
 ├── GreedyAlgorithms/
 │   ├── AssignCookies.java
@@ -434,13 +436,15 @@ leetcode-journey/
 | 93 | Find Eventual Safe States | Graph, BFS | Medium | ✅ |
 | 94 | Shortest Path in Binary Matrix | Graph | Medium | ✅ |
 | 94 | Path With Minimum Effort | Graph | Medium | ✅ |
+| 95 | Cheapest Flights Within K Stops | Graph | Medium | ✅ |
+| 95 | Network Delay Time | Graph | Medium | ✅ |
 
 
 ## Stats
 
-- Problems Solved: **188**
+- Problems Solved: **190**
 - Easy: **52**
-- Medium: **108**
+- Medium: **110**
 - Hard: **28**
 
 ## Connect
