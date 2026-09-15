@@ -196,7 +196,9 @@ leetcode-journey/
 │   ├── ShortestPathinBinaryMatrix.java
 │   ├── PathWithMinimumEffort.java
 │   ├── CheapestFlightsWithinKStops.java
-│   └── NetworkDelayTime.java
+│   ├── NetworkDelayTime.java
+│   ├── NumberofOperationstoMakeNetworkConnected.java
+│   └── FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance.java
 │
 ├── GreedyAlgorithms/
 │   ├── AssignCookies.java
@@ -438,13 +440,15 @@ leetcode-journey/
 | 94 | Path With Minimum Effort | Graph | Medium | ✅ |
 | 95 | Cheapest Flights Within K Stops | Graph | Medium | ✅ |
 | 95 | Network Delay Time | Graph | Medium | ✅ |
+| 96 | Number of Operations to Make Network Connected | Graph | Medium | ✅ |
+| 96 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | Graph | Medium | ✅ |
 
 
 ## Stats
 
-- Problems Solved: **190**
+- Problems Solved: **192**
 - Easy: **52**
-- Medium: **110**
+- Medium: **112**
 - Hard: **28**
 
 ## Connect
