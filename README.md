@@ -198,8 +198,10 @@ leetcode-journey/
 │   ├── CheapestFlightsWithinKStops.java
 │   ├── NetworkDelayTime.java
 │   ├── NumberofOperationstoMakeNetworkConnected.java
-│   └── FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance.java
-│
+│   ├── FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance.java
+│   ├── MostStonesRemovedwithSameRoworColumn.java
+│   └── AccountsMerge.java
+│ 
 ├── GreedyAlgorithms/
 │   ├── AssignCookies.java
 │   ├── LemonadeChange.java
@@ -442,13 +444,14 @@ leetcode-journey/
 | 95 | Network Delay Time | Graph | Medium | ✅ |
 | 96 | Number of Operations to Make Network Connected | Graph | Medium | ✅ |
 | 96 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | Graph | Medium | ✅ |
-
+| 97 | Most Stones Removed with Same Row or Column | Graph | Medium | ✅ |
+| 97 | Accounts Merge | Graph | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **192**
+- Problems Solved: **194**
 - Easy: **52**
-- Medium: **112**
+- Medium: **114**
 - Hard: **28**
 
 ## Connect
