@@ -200,7 +200,9 @@ leetcode-journey/
 │   ├── NumberofOperationstoMakeNetworkConnected.java
 │   ├── FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance.java
 │   ├── MostStonesRemovedwithSameRoworColumn.java
-│   └── AccountsMerge.java
+│   ├── AccountsMerge.java
+│   ├── MakingALargeIsland.java
+│   └── SwiminRisingWater.java
 │ 
 ├── GreedyAlgorithms/
 │   ├── AssignCookies.java
@@ -446,13 +448,15 @@ leetcode-journey/
 | 96 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | Graph | Medium | ✅ |
 | 97 | Most Stones Removed with Same Row or Column | Graph | Medium | ✅ |
 | 97 | Accounts Merge | Graph | Medium | ✅ |
+| 98 | Making A Large Island | Graph | Hard | ✅ |
+| 98 | Swim in Rising Water | Graph | Hard | ✅ |
 
 ## Stats
 
-- Problems Solved: **194**
+- Problems Solved: **196**
 - Easy: **52**
 - Medium: **114**
-- Hard: **28**
+- Hard: **30**
 
 ## Connect
 
