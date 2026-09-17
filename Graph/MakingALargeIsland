@@ -1,1 +1,86 @@
+class Solution {
+    int n;
+    int[][] grid;
+    int[] area = new int[500005];
 
+    int[] dr = {-1, 1, 0, 0};
+    int[] dc = {0, 0, -1, 1};
+
+    int dfs(int r, int c, int id) {
+        if (r < 0 || c < 0 || r >= n || c >= n || grid[r][c] != 1)
+            return 0;
+
+        grid[r][c] = id;
+
+        int count = 1;
+
+        for (int k = 0; k < 4; k++) {
+            count += dfs(r + dr[k], c + dc[k], id);
+        }
+
+        return count;
+    }
+
+    public int largestIsland(int[][] grid) {
+        this.grid = grid;
+        n = grid.length;
+
+        int id = 2;
+        int ans = 0;
+
+        // Label islands and calculate their areas
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1) {
+                    area[id] = dfs(i, j, id);
+                    ans = Math.max(ans, area[id]);
+                    id++;
+                }
+            }
+        }
+
+        // Try changing every 0 to 1
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+
+                if (grid[i][j] != 0)
+                    continue;
+
+                int sum = 1;
+
+                // At most 4 neighboring islands
+                int[] seen = new int[4];
+                int count = 0;
+
+                for (int k = 0; k < 4; k++) {
+                    int r = i + dr[k];
+                    int c = j + dc[k];
+
+                    if (r >= 0 && c >= 0 && r < n && c < n) {
+                        int island = grid[r][c];
+
+                        if (island > 1) {
+                            boolean duplicate = false;
+
+                            for (int x = 0; x < count; x++) {
+                                if (seen[x] == island) {
+                                    duplicate = true;
+                                    break;
+                                }
+                            }
+
+                            if (!duplicate) {
+                                seen[count++] = island;
+                                sum += area[island];
+                            }
+                        }
+                    }
+                }
+
+                ans = Math.max(ans, sum);
+            }
+        }
+
+        return ans;
+    }
+}
