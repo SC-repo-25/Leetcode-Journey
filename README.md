@@ -202,7 +202,9 @@ leetcode-journey/
 │   ├── MostStonesRemovedwithSameRoworColumn.java
 │   ├── AccountsMerge.java
 │   ├── MakingALargeIsland.java
-│   └── SwiminRisingWater.java
+│   ├── SwiminRisingWater.java
+│   ├── CriticalConnectionsinaNetwork.java
+│   └── MaximumNumberofNon-OverlappingSubstrings.java
 │ 
 ├── GreedyAlgorithms/
 │   ├── AssignCookies.java
@@ -450,13 +452,15 @@ leetcode-journey/
 | 97 | Accounts Merge | Graph | Medium | ✅ |
 | 98 | Making A Large Island | Graph | Hard | ✅ |
 | 98 | Swim in Rising Water | Graph | Hard | ✅ |
+| 99 | Critical Connections in a Network | Graph | Hard | ✅ |
+| 99 | Maximum Number of Non-Overlapping Substrings | Graph | Hard | ✅ |
 
 ## Stats
 
-- Problems Solved: **196**
+- Problems Solved: **198**
 - Easy: **52**
 - Medium: **114**
-- Hard: **30**
+- Hard: **32**
 
 ## Connect
 
