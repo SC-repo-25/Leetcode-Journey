@@ -148,7 +148,9 @@ leetcode-journey/
 │   ├── BurstBalloons.java
 │   ├── PalindromePartitioningII.java
 │   ├── HouseRobberII.java
-│   └── JumpGame.java
+│   ├── JumpGame.java
+│   ├── ClimbingStairs.java
+│   └── UniquePathsII.java
 │
 ├── BinarySearch/
 │   ├── BinarySearch.java
@@ -454,12 +456,14 @@ leetcode-journey/
 | 98 | Swim in Rising Water | Graph | Hard | ✅ |
 | 99 | Critical Connections in a Network | Graph | Hard | ✅ |
 | 99 | Maximum Number of Non-Overlapping Substrings | Graph | Hard | ✅ |
+| 100 | Climbing Stairs | DP | Easy | ✅ |
+| 100 | Unique Paths II | DP | Medium | ✅ |
 
 ## Stats
 
-- Problems Solved: **198**
-- Easy: **52**
-- Medium: **114**
+- Problems Solved: **200**
+- Easy: **53**
+- Medium: **115**
 - Hard: **32**
 
 ## Connect
